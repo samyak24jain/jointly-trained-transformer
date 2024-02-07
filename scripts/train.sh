@@ -1,1 +1,1 @@
-python main.py --train --data "./hw1_train.csv" --save_model "./jointly_trained_model.pt"
+python ../src/main.py --train --data "../data/hw1_train.csv" --save_model "./jointly_trained_model.pt"
