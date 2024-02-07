@@ -1,0 +1,2254 @@
+utterances,IOB Slot tags,Core Relations
+who plays luke on star wars new hope,O O B_char O B_movie I_movie I_movie I_movie,movie.starring.actor movie.starring.character
+show credits for the godfather,O O O B_movie I_movie,movie.starring.actor
+who was the main actor in the exorcist,O O O O O O B_movie I_movie,movie.starring.actor
+who played dory on finding nemo,O O B_char O B_movie I_movie,movie.starring.actor movie.starring.character
+who was the female lead in resident evil,O O O O O O B_movie I_movie,movie.starring.actor actor.gender
+who played guido in life is beautiful,O O B_char O B_movie I_movie I_movie,movie.starring.actor movie.starring.character
+who was the co-star in shoot to kill,O O O O O B_movie I_movie I_movie,movie.starring.actor
+find the guy who plays charlie on charlie's angels,O O O O O B_char O B_movie I_movie,movie.starring.actor movie.starring.character
+cast and crew of movie the campaign,O O O O O B_movie I_movie,movie.starring.actor
+cast and crew of the campaign,O O O O B_movie I_movie,movie.starring.actor
+who plays in the movie the campaign,O O O O O B_movie I_movie,movie.starring.actor
+who starred in the campaign,O O O B_movie I_movie,movie.starring.actor
+who were the crew for the campaign,O O O O O B_movie I_movie,movie.starring.actor
+who was the lead man in taxi driver,O O O O O O B_movie I_movie,movie.starring.actor
+star of twilight,O O B_movie,movie.starring.actor
+who stars in vulgaria,O O O B_movie,movie.starring.actor
+what are the names of female actors who played in lost,O O O O O O O O O O B_movie,movie.starring.actor actor.gender
+can i see the set list and cast for life is beautiful,O O O O O O O O O B_movie I_movie I_movie,movie.starring.actor
+cast and crew of life is beautiful,O O O O B_movie I_movie I_movie,movie.starring.actor
+show cast and crew for the movie life is beautiful,O O O O O O O B_movie I_movie I_movie,movie.starring.actor
+what's the cast for life is beautiful,O O O O B_movie I_movie I_movie,movie.starring.actor
+who played in life is beautiful,O O O B_movie I_movie I_movie,movie.starring.actor
+who played in life is beautiful,O O O B_movie I_movie I_movie,movie.starring.actor
+who was in life is beautiful,O O O B_movie I_movie I_movie,movie.starring.actor
+who were roberto benigni's costars on life is beautiful,O O O O O O B_movie I_movie I_movie,movie.starring.actor
+i am looking for the actor that played in pretty women,O O O O O O O O O B_movie I_movie,movie.starring.actor
+star of troy,O O B_movie,movie.starring.actor
+who played robin in batman forever,O O B_char O B_movie I_movie,movie.starring.actor movie.starring.character
+find the male actor from dirty harry,O O O O O B_movie I_movie,movie.starring.actor actor.gender
+show me the actor of the ranam,O O O O O O B_movie,movie.starring.actor
+rocky actor,B_movie O,movie.starring.actor
+what actor played in the amazing spider man,O O O O B_movie I_movie I_movie I_movie,movie.starring.actor
+who are the actors in captain america,O O O O O B_movie I_movie,movie.starring.actor
+who starred in captain america,O O O B_movie I_movie,movie.starring.actor
+who was in the movie captain america,O O O O O B_movie I_movie,movie.starring.actor
+who were the cast members in the hobbist,O O B_movie O O O B_movie I_movie,movie.starring.actor
+show me the actor of the movie varsham,O O O O O O O B_movie,movie.starring.actor
+which female actors starred in hitch,O O O O O B_movie,movie.starring.actor actor.gender
+can i see the cast and crew for the movie in july,O O O O O O O O O O B_movie I_movie,movie.starring.actor
+list cast and crew in july,O O O O B_movie I_movie,movie.starring.actor
+who stars in in july,O O O B_movie I_movie,movie.starring.actor
+who stars in in july,O O O B_movie I_movie,movie.starring.actor
+roll credits for top gun,O O O B_movie I_movie,movie.starring.actor
+show me the actor of the movie sirisiri muvva,O O O O O O O B_movie I_movie,movie.starring.actor
+rocky 2 actor,B_movie I_movie O,movie.starring.actor
+who is chewbakka,O O B_char,movie.starring.actor movie.starring.character
+who stared in i love lucy,O O O B_movie I_movie I_movie,movie.starring.actor
+apollo thirteen cast members,B_movie I_movie O O,movie.starring.actor
+can you tell me more about the cast and crew of the movie apollo thirteen,O O O O O O O O O O O O O B_movie I_movie,movie.starring.actor
+cast and crew for apollo thirteen,O O O O B_movie I_movie,movie.starring.actor
+castmembers of apollo thirteen,O O B_movie I_movie,movie.starring.actor
+complete cast and crew of apollo thirteen,O O O O O B_movie I_movie,movie.starring.actor
+find for information about the cast of appolo thirteen,O O O O O O O B_movie I_movie,movie.starring.actor
+find info on the crew of apollo thirteen,O O O O O O B_movie I_movie,movie.starring.actor
+give me more facts about the cast and crew of the movie apollo thirteen,O O O O O O O O O O O O B_movie I_movie,movie.starring.actor
+i need to know in detail about the cast and crew of the movie apollo thirteen,O O O O O O O O O O O O O O B_movie I_movie,movie.starring.actor
+i want to find information about the cast of apollo thirteen,O O O O O O O O O B_movie I_movie,movie.starring.actor
+show me more information about the cast and crew of the movie apollo thirteen,O O O O O O O O O O O O B_movie I_movie,movie.starring.actor
+what actors were in dirty dancing,O O O O B_movie I_movie,movie.starring.actor
+show me the actors in captain america,O O O O O B_movie I_movie,movie.starring.actor
+i can't remember the lead guy in the avengers,O O O B_movie O O O B_movie I_movie,movie.starring.actor
+show cast list for the avergers,O O O O B_movie I_movie,movie.starring.actor
+who plays nemo in finding nemo,O O B_char O B_movie B_movie,movie.starring.actor movie.starring.character
+find cast and crew for the movie finding nemo,O O O O O O O B_movie I_movie,movie.starring.actor
+show me the cast and crew for finding nemo,O O O O O O O B_movie I_movie,movie.starring.actor
+show me the cast of finding nemo,O O O O O B_movie I_movie,movie.starring.actor
+who are the main voices in finding nemo,O O O O O O B_movie I_movie,movie.starring.actor
+who starred in finding nemo,O O O B_movie I_movie,movie.starring.actor
+who stars in finding nemo,O O O B_movie I_movie,movie.starring.actor
+who was the main character in men in black 3,O O O O O O B_movie I_movie I_movie I_movie,movie.starring.actor
+can i see the credits for dirty dancing,O O O O O O B_movie I_movie,movie.starring.actor
+cast of dirty dancing,O O B_movie I_movie,movie.starring.actor
+find cast and crew for dirty dancing,O O O O O B_movie I_movie,movie.starring.actor
+search cast and crew for dirty dancing,O O O O O B_movie I_movie,movie.starring.actor
+search for the cast and crew for the movie dirty dancing,O O O O O O O O O B_movie I_movie,movie.starring.actor
+show me the cast and list for dirty dancing,O O O O O O O B_movie I_movie,movie.starring.actor
+who starred in dirty dancing,O O O B_movie I_movie,movie.starring.actor
+who starred in dirty dancing,O O O B_movie I_movie,movie.starring.actor
+who were the stars of dirty dancing,O O O O O B_movie I_movie,movie.starring.actor
+who was the male star of titanic,O O O O O O B_movie,movie.starring.actor actor.gender
+who starred in taxi,O O O B_movie,movie.starring.actor
+who played in the oranges,O O O B_movie I_movie,movie.starring.actor
+actors for life is beautiful,O O B_movie I_movie I_movie,movie.starring.actor
+who are the lead actors in life is beautiful,O O O O O O B_movie I_movie I_movie,movie.starring.actor
+find the male actor from the movie born free,O O O O O O O B_movie I_movie,movie.starring.actor actor.gender
+actor from iron man,O O B_movie I_movie,movie.starring.actor
+shows actors in shoot to kill,O O O B_movie I_movie I_movie,movie.starring.actor
+which actors starred in hitch,O O O O B_movie,movie.starring.actor
+who are all of the actors in hitch,O O O O O O O B_movie,movie.starring.actor
+who was the lead actor in hitch,O O O O O O B_movie,movie.starring.actor
+who starred in dark knight rising,O O O B_movie I_movie I_movie,movie.starring.actor
+who played nick fury in the avengers,O O B_char I_char O B_movie I_movie,movie.starring.actor movie.starring.character
+who was the lead actor in the avengers,O O O O O O B_movie I_movie,movie.starring.actor
+what was the cast of black swan,O O O O O B_movie I_movie,movie.starring.actor
+who acted in black swan,O O O B_movie I_movie,movie.starring.actor
+who was in black swan,O O O B_movie I_movie,movie.starring.actor
+who was the lead in black swan,O O O O O B_movie I_movie,movie.starring.actor
+actors in star wars four,O O B_movie I_movie I_movie,movie.starring.actor
+what was the actor who played esme in twilight,O O O O O O B_char O B_movie,movie.starring.actor movie.starring.character
+who played esme in twilight,O O B_char O B_movie,movie.starring.actor movie.starring.character
+who starred in the parent trap,O O O B_movie I_movie I_movie,movie.starring.actor
+cast and crew for hitch,O O O O B_movie,movie.starring.actor
+cast and crew of hitch,O O O O B_movie,movie.starring.actor
+cast hitch,O B_movie,movie.starring.actor
+hitch crew,B_movie O,movie.starring.actor
+list cast hitch,O O B_movie,movie.starring.actor
+show the cast of hitch,O O O O B_movie,movie.starring.actor
+what actors appeared in the movie hitch,O O O O O O B_movie,movie.starring.actor
+what actors played in the movies hitch,O O O O O O B_movie,movie.starring.actor
+what was the cast of hitch,O O O O O B_movie,movie.starring.actor
+who starred in hitch,O O O B_movie,movie.starring.actor
+who starred in the movie hitch,O O O O O B_movie,movie.starring.actor
+who stars in hitch,O O O B_movie,movie.starring.actor
+who was in hitch,O O O B_movie,movie.starring.actor
+who was in the movie hitch,O O O O O B_movie,movie.starring.actor
+who was the star in hitch,O O O O O B_movie,movie.starring.actor
+voice actor for homer simpson,O O O B_char I_char,movie.starring.actor movie.starring.character
+who is in the movie two can play that game,O O O O O B_movie I_movie I_movie I_movie I_movie,movie.starring.actor
+actress from gone with the wind,O O B_movie I_movie I_movie I_movie,movie.starring.actor
+who are the lead actors in this movie,O O O O O O O O,movie.starring.actor
+show me information on the cast and crew of pitchperfect,O O O O O O O O O B_movie,movie.starring.actor
+actors in house at the end of the street,O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,movie.starring.actor
+can i see the cast and crew for house at the end of the street,O O O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,movie.starring.actor
+cast and crew for house at the end of the street,O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,movie.starring.actor
+cast and crew for the movie house at the end of the street,O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,movie.starring.actor
+who stars on the house at the end of the street,O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,movie.starring.actor
+who is in movie,O O O O,movie.starring.actor
+who is in movie,O O O O,movie.starring.actor
+who is in movie,O O O O,movie.starring.actor
+who acts in forager,O O O B_movie,movie.starring.actor
+who stars in forager,O O O B_movie,movie.starring.actor
+who is the cast and crew for now forager,O O O O O O O O B_movie,movie.starring.actor
+who was in now,O O O B_movie,movie.starring.actor
+actor from modern family,O O B_movie I_movie,movie.starring.actor
+list the actors in forager,O O O O B_movie,movie.starring.actor
+cast and crew of go,O O O O B_movie,movie.starring.actor
+who starred in go,O O O B_movie,movie.starring.actor
+who was the lead actress in the hunger games,O O O O O O B_movie I_movie I_movie,movie.starring.actor
+show cast of movie request,O O O O B_movie,movie.starring.actor
+what is the cast in resident evil retribution,O O O O O B_movie I_movie I_movie,movie.starring.actor
+list me the actors for top gun,O O O O O B_movie I_movie,movie.starring.actor
+who was the tin man in wizard of oz,O O O B_char I_char O B_movie I_movie I_movie,movie.starring.actor movie.starring.character
+actress in hum tum,O O B_movie I_movie,movie.starring.actor
+who was the actor in movie hum tum,O O O O O O B_movie I_movie,movie.starring.actor
+who is in barfi,O O O B_movie,movie.starring.actor
+who was the lead woman in the savages,O O O O O O B_movie I_movie,movie.starring.actor actor.gender
+find the name of the actor who played jack in the movie titanic,O O O O O O O O B_char O O O B_movie,movie.starring.actor movie.starring.character
+the name of the male lead in the movie titanic,O O O O O O O O O B_movie,movie.starring.actor
+what is the name of the lead actor in the titanic,O O O O O O O O O O B_movie,movie.starring.actor
+show me who played what role in go,O O O O O O O B_movie,movie.starring.actor movie.starring.character
+i cannot remember the name of the actor in pretty women,O O O O O O O O O B_movie I_movie,movie.starring.actor
+what is the name of the actor who was in the parent trap,O O O O O O O O O O B_movie I_movie I_movie,movie.starring.actor
+find name of main actor in the movie the help,O O O O O O O O B_movie I_movie,movie.starring.actor
+looking for names of crew members of apollo thirteen,O O O O O O O B_movie I_movie,movie.starring.actor
+what were the names of the ladies in facts of life,O O O O O O O O B_movie I_movie I_movie,movie.starring.actor actor.gender
+how old is steven spielberg,O O O B_person I_person,person.date_of_birth
+when steven spielberg born,O B_person I_person O,person.date_of_birth
+when was tom cruise born,O O B_person I_person O,person.date_of_birth
+how old is kristen stewart,O O O B_person I_person,person.date_of_birth
+how much did it cost to produce the dark night,O O O O O O O B_movie I_movie I_movie,movie.estimated_budget
+how much did the dark night cost to produce,O O O B_movie I_movie I_movie O O O,movie.estimated_budget
+what was the dark night budget,O O B_movie I_movie I_movie O,movie.estimated_budget
+budget for the blind side,O O B_movie I_movie I_movie,movie.estimated_budget
+i want to look up the budget of freedom writers,O O O O O O O O B_movie I_movie,movie.estimated_budget
+i would like to look up the budget of freedom writers,O O O O O O O O O B_movie I_movie,movie.estimated_budget
+look for the budget of freedom writers,O O O O O B_movie I_movie,movie.estimated_budget
+how much was hunger games made for,O O O B_movie I_movie O O,movie.estimated_budget
+how much was the budget for the hunger games,O O O O O O B_movie I_movie I_movie,movie.estimated_budget
+how much did black swan cost,O O O B_movie I_movie O,movie.estimated_budget
+how much did hollywood pay for black swan,O O O O O O B_movie I_movie,movie.estimated_budget
+what was the budget for black swan,O O O O O B_movie I_movie,movie.estimated_budget
+what were production costs for black swan,O O O O O B_movie I_movie,movie.estimated_budget
+what was the budget for wrong turn,O O O O O B_movie I_movie,movie.estimated_budget
+search for the budget of step up,O O O O O B_movie I_movie,movie.estimated_budget
+budget for titanic,O O B_movie,movie.estimated_budget
+budget for titanic,O O B_movie,movie.estimated_budget
+budget for titanic movie,O O B_movie O,movie.estimated_budget
+how much did titanic cost to make,O O O B_movie O O O,movie.estimated_budget
+how much was the total budget for the titanic,O O O O O O O O B_movie,movie.estimated_budget
+what was the budget for courageous,O O O O O B_movie,movie.estimated_budget
+what was the budget for facing the giants,O O O O O B_movie I_movie I_movie,movie.estimated_budget
+budget of heroine,O O B_movie,movie.estimated_budget
+finding the buget of heroine,O O O O B_movie,movie.estimated_budget
+what is the buget of movie heroine,O O O O O O B_movie,movie.estimated_budget
+how much did it cost to make jurassic park,O O O O O O O B_movie I_movie,movie.estimated_budget
+what was the budget for jurassic park,O O O O O B_movie I_movie,movie.estimated_budget
+how much did james cameron have to spend to make avatar,O O O B_director I_director O O O O O B_movie,movie.estimated_budget movie.directed_by
+avatar must have cost a bundle,B_movie O O O O O,movie.estimated_budget
+did the avatar movie have a budget for spending,O O B_movie O O O O O O,movie.estimated_budget
+get me info on the budget for avatar,O O O O O O O B_movie,movie.estimated_budget
+how much did it cost to make avatar,O O O O O O O B_movie,movie.estimated_budget
+how much did the studio spend to make avatar,O O O O O O O O B_movie,movie.estimated_budget
+how much money was budgeted for the avatar movie,O O O O O O O B_movie O,movie.estimated_budget
+i need to know the budget of the movie avatar,O O O O O O O O O B_movie,movie.estimated_budget
+list the budget for avatar,O O O O B_movie,movie.estimated_budget
+show me what was the budget of the movie avatar,O O O O O O O O O B_movie,movie.estimated_budget
+what did the movie avatar cost to make,O O O O B_movie O O O,movie.estimated_budget
+what was the budget for avatar,O O O O O B_movie,movie.estimated_budget
+what was the budget for avatar,O O O O O B_movie,movie.estimated_budget
+what was the budget for avatar,O O O O O B_movie,movie.estimated_budget
+what was the budget for the movie avatar,O O O O O O O B_movie,movie.estimated_budget
+what was the budget of the movie avatar,O O O O O O O B_movie,movie.estimated_budget
+how much did the movie avatar cost,O O O O O B_movie O,movie.estimated_budget
+how much money was spent on batman,O O O O O O B_movie,movie.estimated_budget
+tell me the budget for the movie batman,O O O O O O O B_movie,movie.estimated_budget
+how much did batman begins cost,O O O B_movie I_movie O,movie.estimated_budget
+how much was it to make the film batman begins,O O O O O O O O B_movie I_movie,movie.estimated_budget
+budget for the avengers,O O B_movie I_movie,movie.estimated_budget
+how much did it take to make the avengers,O O O O O O O B_movie I_movie,movie.estimated_budget
+what was the budget for the avengers,O O O O O B_movie I_movie,movie.estimated_budget
+what was the budget for citizen kane,O O O O O B_movie I_movie,movie.estimated_budget
+find out the budget of cujo,O O O O O B_movie,movie.estimated_budget
+budget for gone with the wind,O O B_movie I_movie I_movie I_movie,movie.estimated_budget
+show me the budget for the movie,O O O O O O O,movie.estimated_budget
+budget for the hulk,O O O B_movie,movie.estimated_budget
+budget request for my big fat greek wedding,O O O B_movie I_movie I_movie I_movie I_movie,movie.estimated_budget
+find the budget of my big fat greek wedding,O O O O B_movie I_movie I_movie I_movie I_movie,movie.estimated_budget
+how much did my big fat greek wedding cost,O O O B_movie I_movie I_movie I_movie I_movie O,movie.estimated_budget
+what was the budget of my big fat greek wedding,O O O O O B_movie I_movie I_movie I_movie I_movie,movie.estimated_budget
+what was the budget for old school,O O O O O B_movie I_movie,movie.estimated_budget
+how much did it cost to produce the deer hunter,O O O O O O O B_movie I_movie I_movie,movie.estimated_budget
+provide the cost for producing the deer hunter,O O O O O B_movie I_movie I_movie,movie.estimated_budget
+will you show the cost to produce the deer hunter,O O O O O O O B_movie I_movie I_movie,movie.estimated_budget
+what was the budget for the hobbit,O O O O O B_movie I_movie,movie.estimated_budget
+what was the budget for passion of the christ,O O O O O B_movie I_movie I_movie I_movie,movie.estimated_budget
+what was the budget for top gun,O O O O O B_movie I_movie,movie.estimated_budget
+who does ellen degeneres play in finding nemo,O O O O O O B_movie I_movie,movie.starring.actor movie.starring.character
+what character did tom hanks play in apollo thirteen,O O O O O O O B_movie I_movie,movie.starring.actor movie.starring.character
+lion king characters,B_movie I_movie O,movie.starring.character
+what character did will smith play in hitch,O O O O O O O B_movie,movie.starring.actor movie.starring.character
+what role did sarah polley play in go,O O O O O O O B_movie,movie.starring.actor movie.starring.character
+what was kevin james role in hitch,O O O O O O B_movie,movie.starring.actor movie.starring.character
+who directed the music in gone with the wind,O O O O O B_movie I_movie I_movie I_movie,movie.music
+show me the music composer for the movie,O O O O O O O O,movie.music
+who directed the musical score in barfi,O O O O O O B_movie,movie.music
+how many films did ed harris do with tom hanks,O O O O B_person I_person O O B_person I_person,movie.starring.actor
+how many movies were released on nine twenty eight twelve,O O O O O O B_release_year I_release_year I_release_year I_release_year,movie.initial_release_date
+how many movies were filmed in asia,O O O O O O B_location,movie.locations
+how many films directed by barbra streisand have been shot in the czech republic,O O O O O B_director I_director O O O O O B_country I_country,movie.locations movie.directed_by
+how many movies has albert ruddy produced,O O O O B_producer I_producer O,movie.produced_by
+how many movies has lionsgate done,O O O O B_producer O,movie.production_companies
+how many movies did richard lester direct,O O O O B_director I_director O,movie.directed_by
+how many films has taye diggs been in,O O O O B_cast I_cast O O,movie.starring.actor
+how many movies has ray stark produced,O O O O B_producer I_producer O,movie.produced_by
+how many producers did the movie the hitch have,O O O O O O O B_movie O,movie.produced_by
+how many movies has charles vidor directed,O O O O B_director I_director O,movie.directed_by
+how many movies has kristen stewart made,O O O O B_person I_person O,movie.starring.actor
+i wonder how many movies alfred hitchcock was in that he directed,O O O O O B_director I_director O O O O O,movie.starring.actor movie.directed_by
+how many movies has steven spielberg directed,O O O O B_director I_director O,movie.directed_by
+how many films did robert wise direct,O O O O B_director I_director O,movie.directed_by
+how many movies has tom cruise starred in,O O O O B_cast I_cast O O,movie.starring.actor
+how many movies did scorsese direct,O O O O B_director O,movie.directed_by
+how many movies has angelina jolie been in,O O O O B_cast I_cast O O,movie.starring.actor
+how many movies did victor fleming direct,O O O O B_director I_director O,movie.directed_by
+how many movies has woody allen directed,O O O O B_director I_director O,movie.directed_by
+how many movies has darla anderson produced,O O O O B_producer I_producer O,movie.produced_by
+how many films did alfred hitchcock direct,O O O O B_director I_director O,movie.directed_by
+how many movies did hitchcock direct,O O O O B_director O,movie.directed_by
+how many movies has tom hanks starred in,O O O O B_cast I_cast O O,movie.starring.actor
+how many woody allen movies starred diane keaton,O O B_director I_director O O B_cast I_cast,movie.starring.actor movie.directed_by
+how many films has ed harris starred in,O O O O B_cast I_cast O O,movie.starring.actor
+how many movies are made in the united states,O O O O O O O B_country I_country,movie.country
+where was footnote made,O O B_movie O,movie.country
+what country did the flowers of war come from,O O O B_movie I_movie I_movie I_movie O O,movie.country
+country of le havre,O O B_movie I_movie,movie.country
+what country does the movie kati patang comes from,O O O O O B_movie I_movie O O,movie.country
+show me the name of the country for the movie thoda pyaar thoda magic,O O O O O O O O O O B_movie I_movie I_movie I_movie,movie.country
+can you tell me which country the movie kati patang comes from,O O O O O O O O B_movie I_movie O O,movie.country
+i need to know the name of the country to which the movie kati patang belongs to,O O O O O O O O O O O O O B_movie I_movie O O,movie.country
+show me the name of the country from which the movie kati patang comes,O O O O O O O O O O O B_movie I_movie O,movie.country
+can you tell me which country does thoda pyaar thoda magic belongs to,O O O O O O O B_movie I_movie I_movie I_movie O O,movie.country
+give me the name of the country for the movie thoda pyaar thoda magic,O O O O O O O O O O B_movie I_movie I_movie I_movie,movie.country
+i need to know which country does the movie thoda pyaar thoda magic belongs to,O O O O O O O O O B_movie I_movie I_movie I_movie O O,movie.country
+country that made a separation,O O O B_movie I_movie,movie.country
+what country is godzilla,O O O B_movie,movie.country
+country of weekend,O O B_movie,movie.country
+i would like to search for what country cell 21 is from,O O O O O O O O B_movie I_movie O O,movie.country
+look for what country cell 21 is from,O O O O B_movie I_movie O O,movie.country
+what country is cell 21 from,O O O B_movie I_movie O,movie.country
+what country did black beauty come from,O O O B_movie I_movie O O,movie.country
+i need to know where trainspotting comes from,O O O O O B_movie O O,movie.country
+tell me where is trainspotting from,O O O O B_movie O,movie.country
+which country made elizabeth,O O O B_movie,movie.country
+where was trainspotting made,O O B_movie O,movie.country
+which country is this movie from,O O O O O O,movie.country
+show me where black swan is from,O O O B_movie I_movie O O,movie.country
+where was black swan produced,O O B_movie I_movie O,movie.country
+what is the origin of casa blanca,O O O O O B_movie I_movie,movie.country
+origin of gone with the wind,O O B_movie I_movie I_movie I_movie,movie.country
+lion king filmed at,B_movie I_movie O O,movie.country
+where was rocky four filmed,O O B_movie I_movie O,movie.country
+origin of spanglish,O O B_movie,movie.country
+movie made where,O O O,movie.country
+what country is movie from,O O O O O,movie.country
+in what country was movie made,O O O O O O,movie.country
+where was movie made,O O O O,movie.country
+is this a foreign film,O O O O O,movie.country
+is this a foreign film,O O O O O,movie.country
+what country was kinky boots made in,O O O B_movie I_movie O O,movie.country
+what country is outside the law from,O O O B_movie I_movie I_movie O,movie.country
+what country produced the movie mirror,O O O O O B_movie,movie.country
+what country does mirror come from,O O O B_movie O O,movie.country
+what country does les miserable come from,O O O B_movie I_movie O O,movie.country
+what is the origin country of mirror,O O O O O O B_movie,movie.country
+in what country was the movie mirror produced,O O O O O O B_movie O,movie.country
+where was the movie mirror produced,O O O O B_movie O,movie.country
+when can i see top gun,O O O O B_movie I_movie,movie.initial_release_date
+when was top gun released,O O B_movie I_movie O,movie.initial_release_date
+when does top gun come out,O O B_movie I_movie O O,movie.initial_release_date
+when the movie top gun was released,O O O B_movie I_movie O O,movie.initial_release_date
+when did richard lester start directing,O O B_director I_director O O,movie.directed_by movie.initial_release_date
+when was in july released,O O B_movie I_movie O,movie.initial_release_date
+give me the release date for the little mermaid,O O B_movie O O O B_movie I_movie I_movie,movie.initial_release_date
+what date was spider released,O O O B_movie O,movie.initial_release_date
+can you tell me when 24 will be released,O O O O O B_movie O O O,movie.initial_release_date
+do you know when 24 will be released,O O O O B_movie O O O,movie.initial_release_date
+i want to know when 24 will be released,O O O O O B_movie O O O,movie.initial_release_date
+when will 24 be released,O O B_movie O O,movie.initial_release_date
+how will i know when the movie gone with the wind will be released,O O O O O O O B_movie I_movie I_movie I_movie O O O,movie.initial_release_date
+please tell me when was the movie gone with the wind released,O O O O O O O B_movie I_movie I_movie I_movie O,movie.initial_release_date
+please tell me when will the movie gone with the wind will be released,O O O O O O O B_movie I_movie I_movie I_movie O O O,movie.initial_release_date
+when will the movie gone with the wind be released,O O O O B_movie I_movie I_movie I_movie O O,movie.initial_release_date
+do you know when this movie is available,O O O O O O O O,movie.initial_release_date
+what year was the movie released,O O O O O O,movie.initial_release_date
+which decade did the movie come out,O O O O O O O,movie.initial_release_date
+which month was the movie released,O O O O O O,movie.initial_release_date
+release day for the movie,O O O O O,movie.initial_release_date
+may i have the date of release for this movie,O O O O O O O O O O,movie.initial_release_date
+release date for the vow,O O O B_movie I_movie,movie.initial_release_date
+when was black beauty released,O O B_movie I_movie O,movie.initial_release_date
+titanic release date,B_movie O O,movie.initial_release_date
+when did lionsgate start making movies,O O B_producer O O O,movie.production_companies movie.initial_release_date
+search when the birds will be released,O O B_movie I_movie O O O,movie.initial_release_date
+what year did spielberg start directing movies,O O O B_director O O O,movie.directed_by movie.initial_release_date
+the godfather came out when,B_movie I_movie O O O,movie.initial_release_date
+when can i see the great gatsby,O O O O B_movie I_movie I_movie,movie.initial_release_date
+when will the great gatsby be out,O O B_movie I_movie I_movie O O,movie.initial_release_date
+when will the great gatsby be released,O O B_movie I_movie I_movie O O,movie.initial_release_date
+when will jaws be released,O O B_movie O O,movie.initial_release_date
+when will the hobbit be released,O O B_movie I_movie O O,movie.initial_release_date
+what year was the hobbit relased,O O O B_movie I_movie O,movie.initial_release_date
+what year did the movie grease open,O O O O O B_movie O,movie.initial_release_date
+movie little women release date is when,O B_movie I_movie O O O O,movie.initial_release_date
+release date for little women,O O O B_movie I_movie,movie.initial_release_date
+when was the movie title little women released,O O O O O B_movie I_movie O,movie.initial_release_date
+can you please tell me when was karate kid released,O O O O O O O B_movie I_movie O,movie.initial_release_date
+karate kid release date,B_movie I_movie O O,movie.initial_release_date
+find release date for karate kid,O O O O B_movie I_movie,movie.initial_release_date
+when did dirty dancing come out,O O B_movie I_movie O O,movie.initial_release_date
+when was dirty dancing released,O O B_movie I_movie O,movie.initial_release_date
+what year was dirty dancing released,O O O B_movie I_movie O,movie.initial_release_date
+when was dirty dancing released,O O B_movie I_movie O,movie.initial_release_date
+when was overboard released,O O B_movie O,movie.initial_release_date
+what year did moon over parador come out,O O O B_movie I_movie I_movie O O,movie.initial_release_date
+release date for batman,O O O B_movie,movie.initial_release_date
+when did jurassic park get released,O O B_movie I_movie O O,movie.initial_release_date
+lion king release yr,B_movie I_movie O O,movie.initial_release_date
+when was while you were sleeping released,O O B_movie I_movie I_movie I_movie O,movie.initial_release_date
+what year was ed harris in in apollo thirteen,O O O O O O O B_movie I_movie,movie.starring.actor movie.initial_release_date
+what was the date when welcome to the dollhouse was released,O O O O O B_movie I_movie I_movie I_movie O O,movie.initial_release_date
+release date for toy story,O O O B_movie I_movie,movie.initial_release_date
+what was the relase date for men in black,O O O O O O B_movie I_movie I_movie,movie.initial_release_date
+when was life is beautiful released,O O B_movie I_movie I_movie O,movie.initial_release_date
+when was life is beautiful released,O O B_movie I_movie I_movie O,movie.initial_release_date
+when life is beautiful was released,O B_movie I_movie I_movie O O,movie.initial_release_date
+what is possessed realese date,O O B_movie O O,movie.initial_release_date
+look up the release date of resident evil,O O O O O O B_movie I_movie,movie.initial_release_date
+when did resident evil come out,O O B_movie I_movie O O,movie.initial_release_date
+when did resident evil debut in theaters,O O B_movie I_movie O O O,movie.initial_release_date
+when did theaters show resident evil,O O O O B_movie I_movie,movie.initial_release_date
+when was the release date for the movie resident evil,O O O O O O O O B_movie I_movie,movie.initial_release_date
+when was resident evil first in theatres,O O B_movie I_movie O O O,movie.initial_release_date
+when was the scooby do movie released,O O O B_movie I_movie O O,movie.initial_release_date
+when was finding nemo released,O O B_movie I_movie O,movie.initial_release_date
+release date for finding nemo,O O O B_movie I_movie,movie.initial_release_date
+when was finding nemo released,O O B_movie I_movie O,movie.initial_release_date
+when was finding nemo released,O O B_movie I_movie O,movie.initial_release_date
+in which date varsham movie released,O O O B_movie O O,movie.initial_release_date
+in which month varsham movie released,O O O B_movie O O,movie.initial_release_date
+release twilight,O B_movie,movie.initial_release_date
+frankenstein release,B_movie O,movie.initial_release_date
+frankenstein release date,B_movie O O,movie.initial_release_date
+when will the movie frankenstein be released,O O O O B_movie O O,movie.initial_release_date
+when was hum tum relesed,O O B_movie I_movie O,movie.initial_release_date
+i want to know when step up was released,O O O O O B_movie I_movie O O,movie.initial_release_date
+i would like to know when the movie step up was released,O O O O O O O O B_movie I_movie O O,movie.initial_release_date
+when was step up released,O O B_movie I_movie O,movie.initial_release_date
+when was the movie step up released,O O O O B_movie I_movie O,movie.initial_release_date
+when did happiness get released,O O B_movie O O,movie.initial_release_date
+when will paranormal activity be released,O O B_movie I_movie O O,movie.initial_release_date
+avatar realease date,B_movie O O,movie.initial_release_date
+avatar release,B_movie O,movie.initial_release_date
+what was the release date for avatar,O O O O O O B_movie,movie.initial_release_date
+when did the movie avatar get released,O O O O B_movie O O,movie.initial_release_date
+when avatar released,O B_movie O,movie.initial_release_date
+when was avatar released,O O B_movie O,movie.initial_release_date
+i need to know when was the movie avatar released,O O O O O O O O B_movie O,movie.initial_release_date
+what day avatar released,O O B_movie O,movie.initial_release_date
+what was the release date of the movie avatar,O O O O O O O O B_movie,movie.initial_release_date
+when was avatar released,O O B_movie O,movie.initial_release_date
+what date was avatar released,O O O B_movie O,movie.initial_release_date
+when was black swan in the theatre,O O B_movie I_movie O O O,movie.initial_release_date
+when was black swan released,O O B_movie I_movie O,movie.initial_release_date
+how long has black swan been out,O O O B_movie I_movie O O,movie.initial_release_date
+find release date of the help,O O O O B_movie I_movie,movie.initial_release_date
+when can the help be released,O O B_movie I_movie O O,movie.initial_release_date
+tell me when compliance came out,O O O B_movie O O,movie.initial_release_date
+when is sinister hitting theaters,O O B_movie O O,movie.initial_release_date
+release date for the hunger games,O O O B_movie I_movie I_movie,movie.initial_release_date
+when was the first hunger games shown,O O B_movie O I_movie I_movie O,movie.initial_release_date
+when was avengers released,O O B_movie O,movie.initial_release_date
+when was lawless released,O O B_movie O,movie.initial_release_date
+release date of snow white and the huntsman,O O O B_movie I_movie I_movie I_movie I_movie,movie.initial_release_date
+release date for amazing spiderman,O O O B_movie I_movie,movie.initial_release_date
+when will the next amazing spiderman come out,O O O O B_movie I_movie O O,movie.initial_release_date
+when was the amazing spiderman released in the movie theatres,O O B_movie I_movie I_movie O O B_movie O O,movie.initial_release_date
+search for the release date of vulgaria,O O O O O O B_movie,movie.initial_release_date
+when did vulgaria come out,O O B_movie O O,movie.initial_release_date
+when was the movie vulgaria released,O O O O B_movie O,movie.initial_release_date
+what date did vulgaria open,O O O B_movie O,movie.initial_release_date
+when did dredd come out,O O B_movie O O,movie.initial_release_date
+what year was the godfather released,O O O O B_movie O,movie.initial_release_date
+release date for the watch,O O O B_movie I_movie,movie.initial_release_date
+when was paranorman be released,O O B_movie O O,movie.initial_release_date
+what year was the campaign released,O O O B_movie I_movie O,movie.initial_release_date
+when was the campaign released,O O B_movie I_movie O,movie.initial_release_date
+when was expendables 2 released,O O B_movie I_movie O,movie.initial_release_date
+when is the release date of resident evil: retribution,O O O O O O B_movie I_movie I_movie,movie.initial_release_date
+what is the calendar date release for looper,O O O O O O O B_movie,movie.initial_release_date
+i would like to know the release date of the movie barfi,O O O O O O O O O O O B_movie,movie.initial_release_date
+i need to know the release date of the movie barfi,O O O O O O O O O O B_movie,movie.initial_release_date
+what is the release date of the movie barfi,O O O O O O O O B_movie,movie.initial_release_date
+show me the release date of the movie barfi,O O O O O O O O B_movie,movie.initial_release_date
+find the release date for heroine,O O O O O B_movie,movie.initial_release_date
+please find the release date of heroine,O O O O O O B_movie,movie.initial_release_date
+what is the release date of heroine,O O O O O O B_movie,movie.initial_release_date
+when was herione released,O O B_movie O,movie.initial_release_date
+when was the movie heroine released,O O O O B_movie O,movie.initial_release_date
+when was house at the end of the street released,O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie O,movie.initial_release_date
+when house at the end of the street showing,O B_movie I_movie I_movie I_movie I_movie I_movie I_movie O,movie.initial_release_date
+what is the release date for house at the end of the street,O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,movie.initial_release_date
+is iron man 3 in theatres yet,O B_movie I_movie I_movie O O O,movie.initial_release_date
+when is iron man 3 coming out,O O B_movie I_movie I_movie O O,movie.initial_release_date
+when will iron man 3 be out in movie theatres,O O B_movie I_movie I_movie O O O O O,movie.initial_release_date
+show me movies listed by directors,O O O O O O,movie.directed_by
+director for gone with the wind,O O B_movie I_movie I_movie I_movie,movie.directed_by
+show me the directors of gone with the wind,O O O O O B_movie I_movie I_movie I_movie,movie.directed_by
+who are the directors of gone with the wind,O O O O O B_movie I_movie I_movie I_movie,movie.directed_by
+who directed gone with the wind,O O B_movie I_movie I_movie I_movie,movie.directed_by
+who directed gone with the wind,O O B_movie I_movie I_movie I_movie,movie.directed_by
+who directed gone with the wind,O O B_movie I_movie I_movie I_movie,movie.directed_by
+who directed the movie,O O I_movie O,movie.directed_by
+show me details about the directors of gone with the wind,O O O O O O O B_movie I_movie I_movie I_movie,movie.directed_by
+who directed black swan,O O B_movie I_movie,movie.directed_by
+who made batman the dark knight,O O O B_movie I_movie I_movie,movie.directed_by
+show me the director of the film the dark knight,O O O O O O O B_movie I_movie I_movie,movie.directed_by
+tell me the director of the film the dark knight,O O O O O O O B_movie I_movie I_movie,movie.directed_by
+who directed the movie the dark knight,O O O O B_movie I_movie I_movie,movie.directed_by
+who filmed the dark knight,O O B_movie I_movie I_movie,movie.directed_by
+who is the person that directed the film the dark knight,O O O O O O O O B_movie I_movie I_movie,movie.directed_by
+who directed hard days night,O O B_movie I_movie I_movie,movie.directed_by
+who directed cast away,O O B_movie I_movie,movie.directed_by
+show me the director of forest gump,O O O O O B_movie I_movie,movie.directed_by
+who was the director of forest gump,O O O O O B_movie I_movie,movie.directed_by
+who is director of sleepless in seattle,O O O O B_movie I_movie I_movie,movie.directed_by
+who directed the movie opening night,O O O O B_movie I_movie,movie.directed_by
+who directed the movie men in black 3,O O O O B_movie I_movie I_movie I_movie,movie.directed_by
+who was the director in men in black 3,O O O O O B_movie I_movie I_movie I_movie,movie.directed_by
+can you tell me the director of the titanic,O O O O O O O O B_movie,movie.directed_by
+director for titanic,O O B_movie,movie.directed_by
+who was the director of the movie titanic,O O O O O O O B_movie,movie.directed_by
+display director of the movie avengers,O O O O O B_movie,movie.directed_by
+director of the avengers,O O B_movie I_movie,movie.directed_by
+search director of the exorcist,O O O B_movie I_movie,movie.directed_by
+find the director for the social network,O O O O B_movie I_movie I_movie,movie.directed_by
+find the director of big,O O O O B_movie,movie.directed_by
+who is the director of ghost busters,O O O O O B_movie I_movie,movie.directed_by
+find the director for pretty woman,O O O O B_movie I_movie,movie.directed_by
+who made godzilla,O O B_movie,movie.directed_by movie.produced_by
+rocky director,B_movie O,movie.directed_by
+who directed hope floats,O O B_movie I_movie,movie.directed_by
+avatar was directed by whom,B_movie O O O O,movie.directed_by
+director of avatar,O O B_movie,movie.directed_by
+which director directed avatar,O O O B_movie,movie.directed_by
+who did avatar,O O B_movie,movie.directed_by
+who directed avatar,O O B_movie,movie.directed_by
+who directed avatar,O O B_movie,movie.directed_by
+who directed avatar,O O B_movie,movie.directed_by
+who directed the film avatar,O O O O B_movie,movie.directed_by
+who directed the movie called avatar,O O O O O B_movie,movie.directed_by
+who made the movie avatar,O O O O B_movie,movie.directed_by
+who was the director of the movie avatar,O O O O O O O B_movie,movie.directed_by
+who directed star wars four,O O B_movie I_movie I_movie,movie.directed_by
+who directed the movie in july,O O O O B_movie I_movie,movie.directed_by
+who made steel magnolias,O O B_movie I_movie,movie.directed_by
+the silence of the lambs director,I_movie I_movie I_movie I_movie I_movie O,movie.directed_by
+director of the incredibles,O O B_movie I_movie,movie.directed_by
+gilda director,B_movie O,movie.directed_by
+list gilda director,O B_movie O,movie.directed_by
+search director for gilda,O O O B_movie,movie.directed_by
+search gilda director,O B_movie O,movie.directed_by
+the movie gilda director,O O B_movie O,movie.directed_by
+who directed gilda,O O B_movie,movie.directed_by
+who directed gilda,O O B_movie,movie.directed_by
+who directed gilda,O O B_movie,movie.directed_by
+who directed the movie gilda,O O O O B_movie,movie.directed_by
+goodfellas director,B_movie O,movie.directed_by
+who made field of dreams,O O B_movie I_movie I_movie,movie.directed_by
+who made the movie field of dreams,O O O O B_movie I_movie I_movie,movie.directed_by
+who made the movie field of dreams possible,O O O O B_movie I_movie I_movie O,movie.directed_by
+can i please see more details for the director of finding nemo,O O O O O O O O O O B_movie I_movie,movie.directed_by
+find the director for finding nemo,O O O O B_movie I_movie,movie.directed_by
+i want to know the director of finding nemo,O O O O O O O B_movie I_movie,movie.directed_by
+i want to know who directed finding nemo,O O O O O O B_movie I_movie,movie.directed_by
+show me finding nemo director,O O B_movie I_movie O,movie.directed_by
+who directed finding nemo,O O B_movie I_movie,movie.directed_by
+who directed finding nemo,O O B_movie I_movie,movie.directed_by
+who directed finding nemo,O O B_movie I_movie,movie.directed_by
+who directed finding nemo,O O B_movie I_movie,movie.directed_by
+who directed finding nemo,O O B_movie I_movie,movie.directed_by
+who directed finding nemo,O O B_movie I_movie,movie.directed_by
+who was the director of the film finding nemo,O O O O O O O B_movie I_movie,movie.directed_by
+who directed hitch,O O B_movie,movie.directed_by
+who made hitch,O O B_movie,movie.directed_by
+director for anne of green gables,O O B_movie I_movie I_movie I_movie,movie.directed_by
+search director of the movie platoon,O O O O O B_movie,movie.directed_by
+who was the director of movie varsham,O O O O O O B_movie,movie.directed_by
+who directed grizzly man,O O B_movie I_movie,movie.directed_by
+who directed to kill a mockingbird,O O B_movie I_movie I_movie I_movie,movie.directed_by
+who was the director of the movie e t,O O O O O O O B_movie I_movie,movie.directed_by
+find the director for et,O O O O B_movie,movie.directed_by
+who made et,O O B_movie,movie.directed_by
+who was the director of the movie jaws,O O O O O O O B_movie,movie.directed_by
+who directed jurassic park,O O B_movie I_movie,movie.directed_by
+who directed jurassic park,O O B_movie I_movie,movie.directed_by
+who directed jurassic park,O O B_movie I_movie,movie.directed_by
+old man director,B_movie I_movie O,movie.directed_by
+can you find out who directed the movie batman,O O O O O O O O B_movie,movie.directed_by
+can you tell me who is the director of batman,O O O O O O O O O B_movie,movie.directed_by
+who directed batman,O O B_movie,movie.directed_by
+who is the director of batman,O O O O O B_movie,movie.directed_by
+looper directors,B_movie O,movie.directed_by
+who directed the perfect storm,O O B_movie I_movie I_movie,movie.directed_by
+who directed dirty dancing,O O B_movie I_movie,movie.directed_by
+director for pride and prejudice,O O B_movie I_movie I_movie,movie.directed_by
+who directed the movie the thing called love,O O B_movie O B_movie I_movie I_movie I_movie,movie.directed_by
+director of twilight,O O B_movie,movie.directed_by
+twilight was directed by whom,B_movie O O O O,movie.directed_by
+who else directs zombie movies,O O O B_subject O,movie.directed_by movie.subjects
+director of hum tum,O O B_movie I_movie,movie.directed_by
+director of the movie hum tum,O O O O B_movie I_movie,movie.directed_by
+find the director of hum tum,O O O O B_movie I_movie,movie.directed_by
+look for the director of hum tum,O O O O O B_movie I_movie,movie.directed_by
+director of the cabin in the woods,O O B_movie I_movie I_movie I_movie I_movie,movie.directed_by
+i am interested in who directed cabin in the woods,O O O O O O B_movie I_movie I_movie I_movie,movie.directed_by
+show me who directed cabin in the woods,O O O O B_movie I_movie I_movie I_movie,movie.directed_by
+who directed the movie cabin in the woods,O O O O B_movie I_movie I_movie I_movie,movie.directed_by
+who directed soul surfer,O O B_movie I_movie,movie.directed_by
+who directed the sandlot,O O B_movie I_movie,movie.directed_by
+which director made a comedy,O O O O B_genre,movie.directed_by movie.genre
+director of halloween,O O B_movie,movie.directed_by
+find the director of step up,O O O O B_movie I_movie,movie.directed_by
+search for the director of step up,O O O O O B_movie I_movie,movie.directed_by
+search for the director of step up,O O O O O B_movie I_movie,movie.directed_by
+i need to know who directed black swan,O O O O O O B_movie I_movie,movie.directed_by
+i want to look for the director of freedom writers,O O O O O O O O B_movie I_movie,movie.directed_by
+i would like to look for the director of freedom writers,O O O O O O O O O B_movie I_movie,movie.directed_by
+who directed the movie titanic,O O O O B_movie,movie.directed_by
+who was the director of the movie the mechanic,O O O O O O O B_movie I_movie,movie.directed_by
+find the director of mask,O O O O B_movie,movie.directed_by
+director of the hulk,O O O B_movie,movie.directed_by
+did robert wise direct the sound of music,O B_director I_director O B_movie I_movie I_movie I_movie,movie.directed_by
+was robert wise the only director of the sound of music,O B_director I_director O O O O B_movie I_movie I_movie I_movie,movie.directed_by
+who directed the sound of music,O O B_movie I_movie I_movie I_movie,movie.directed_by
+who directed the sound of music,O O B_movie I_movie I_movie I_movie,movie.directed_by
+who directed the sound of music,O O B_movie I_movie I_movie I_movie,movie.directed_by
+what director shot the 1st lord of the rings film,O O O O O B_movie I_movie I_movie I_movie O,movie.directed_by
+who directed return,O O B_movie,movie.directed_by
+who is the director of return,O O O O O B_movie,movie.directed_by
+search for the name of the director of return,O O O O O O O O B_movie,movie.directed_by
+what was the name of the director in men in black 3,O O O O O O O O B_movie I_movie I_movie I_movie,movie.directed_by
+what is the name of the director of the movie avengers,O O O O O O O O O O B_movie,movie.directed_by
+find the name of the director of chips,O O O O O O O B_movie,movie.directed_by
+name of director for house at the end of the street,O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,movie.directed_by
+name the director of sleepless in seattle,O O O O B_movie I_movie I_movie,movie.directed_by
+find name of director of the movie platoon,O O O O O O O B_movie,movie.directed_by
+get me the name of who directed the master,O O B_movie O O O O B_movie I_movie,movie.directed_by
+what is the director's name of lord of the rings,O O I_movie O O I_movie I_movie I_movie I_movie I_movie,movie.directed_by
+what is the name of the person who made et,O O O O O O O O O O,movie.directed_by
+rocky director's name,B_movie O O,movie.directed_by
+what type of movie is gilda,O O O O O B_movie,movie.genre
+what types of movies does lionsgate produce,O O O O O B_producer O,movie.production_companies movie.genre
+what kind of movie is black swan,O O O O O B_movie I_movie,movie.genre
+what genre is the hunger games,O O O B_movie I_movie I_movie,movie.genre
+genre for transformers,O O B_movie,movie.genre
+what genre is looper,O O O B_movie,movie.genre
+what genre is the movie looper,O O O O O B_movie,movie.genre
+what genre is rambo,O O O B_movie,movie.genre
+what genre is the jaws movies,O O O O B_movie O,movie.genre
+can you tell me the genre for 1000 words,O O O O O O O B_movie I_movie,movie.genre
+i am interested in the genre for 1000 words,O O O O O O O B_movie I_movie,movie.genre
+what type of movie is parenthood,O O O O O B_movie,movie.genre
+give me the genre of the movie lawless,O O O O O O O B_movie,movie.genre
+what genre is the movie lawless,O O O O O B_movie,movie.genre
+what is the genre of the movie lawless,O O O O O O O B_movie,movie.genre
+what genre is the movie in july,O O O O O B_movie I_movie,movie.genre
+genre for gone with the wind,O O B_movie I_movie I_movie I_movie,movie.genre
+how is the movie classified,O O O O O,movie.genre
+what genre is the movie,O O O O O,movie.genre
+what is the movie category,O O O O O,movie.genre
+how would you describe the movie,O O O O O O,movie.genre
+type of movie,O O O,movie.genre
+what is the classification of movie,O O O O O O,movie.genre
+what is the genre for movie,O O O O O O,movie.genre
+what is the movie genre,O O O O O,movie.genre
+what kind of movie,O O O O,movie.genre
+what type of movie is this,O O O O O O,movie.genre
+i would like look up the genre step up is in,O O O O O O O B_movie I_movie O O,movie.genre
+search for the genre step up in,O O O O B_movie I_movie O,movie.genre
+what genre is step up in,O O O B_movie I_movie O,movie.genre
+what genre is calendar girls in,O O O B_movie I_movie O,movie.genre
+what is the genre for the patriot,O O B_movie O O B_movie I_movie,movie.genre
+what genre is network in,O O O B_movie O,movie.genre
+find out the genre for the movie rebel,O O O O O O O B_movie,movie.genre
+genre for the avengers,O O B_movie I_movie,movie.genre
+can you tell me what genre the movie avatar falls in,O O O O O O O O B_movie O O,movie.genre
+i need to know the genre of the movie avatar,O O O O O O O O O B_movie,movie.genre
+show me the genre of the movie avatar,O O O O O O O B_movie,movie.genre
+what genre is superman,O O O B_movie,movie.genre
+pretty girl movie genre,B_movie I_movie O O,movie.genre
+what genre is pretty girl,O O O B_movie I_movie,movie.genre
+what genre is the movie pretty girl,O O O O O B_movie I_movie,movie.genre
+find out what kind of movie grease is,O O O O O O B_movie O,movie.genre
+i d like to know the genre of the film grease,O O O O O O O O O O B_movie,movie.genre
+i would like to know the genre of grease,O O O O O O O O B_movie,movie.genre
+what kind of movie is grease,O O O O O B_movie,movie.genre
+find out the genre for the movie annamayya,O O O O O O O B_movie,movie.genre
+what movie category is friday the 13th,O O O O B_movie I_movie I_movie,movie.genre
+tell me what genre the tommyknockers is,O O O O B_movie I_movie O,movie.genre
+what genre is the hangover,O O O B_movie I_movie,movie.genre
+what catergory is ted in,O O O B_movie O,movie.genre
+what genre is ted considered,O O O B_movie O,movie.genre
+what type of movie is ted considered to be,O O O O O B_movie O O O,movie.genre
+genre for while you were sleeping,O O B_movie I_movie I_movie I_movie,movie.genre
+what genre is finding nemo,O O O B_movie I_movie,movie.genre
+which language is used in the movie,O O O O O O O,movie.language
+language of sound of music,O I_movie I_movie I_movie I_movie,movie.language
+what language is this film,O O O O O,movie.language
+what are the different languages this movie come in,O O O O O O O O O,movie.language
+what foreign language is spoken in movie,O O O O O O O,movie.language
+what language is movie in,O O O O O,movie.language
+what language is the movie in,O O O O O O,movie.language
+what language is the movie in,O O O O O O,movie.language
+language of anna karinia,O O B_movie I_movie,movie.language
+language of godzilla movie,O O B_movie O,movie.language
+language of hamlet,O O B_movie,movie.language
+can you tell me the language of the movie hero,O O O O O O O O O B_movie,movie.language
+i need to know what is the language of the movie hero,O O O O O O O O O O O B_movie,movie.language
+tell me what is the language of the movie hero,O O O O O O O O O B_movie,movie.language
+language of bullhead,O O B_movie,movie.language
+what language did the characters speak in black swan,O O O O O O O B_movie I_movie,movie.language
+what language is black swan,O O O B_movie I_movie,movie.language
+please find what language the chaser is in,O O O O B_movie I_movie O O,movie.language
+what language is the chaser in,O O O B_movie I_movie O,movie.language
+look up what language the chaser is in,O O O O B_movie I_movie O O,movie.language
+what language is la havre in,O O O B_movie I_movie O,movie.language
+what foreign language is the movie belle available to view in,O O O O O O B_movie O O O O,movie.language
+what language can i watch the movie the professional,O O O O O O O B_movie I_movie,movie.language
+what language is the professional in,O O O B_movie I_movie O,movie.language
+how do they speak in the movie the professional,O O O O O O O B_movie I_movie,movie.language
+what language is spoken in indochine,O O O O O B_movie,movie.language
+language of the film revanche,O O O O B_movie,movie.language
+what language was aguirre wrath of god in,O O O B_movie I_movie I_movie I_movie O,movie.language
+what language is passion of the christ in,O O O B_movie I_movie I_movie I_movie O,movie.language
+i want to know in what language was ju on filmed,O O O O O O O O B_movie I-movie O,movie.language
+i want to know the original language of ju on,O O O O O O O O B_movie I_movie,movie.language
+tell me the language of ju on,O O O O O B_movie I_movie,movie.language
+what language is ju on on,O O O B_movie I_movie O,movie.language
+what language is the movie elling in,O O O O O B_movie O,movie.language
+language of a separation,O O B_movie I_movie,movie.language
+what s the language of moscow does not believe in tears,O O O O O B_movie I_movie I_movie I_movie I_movie I_movie,movie.language
+what is the language of the movie aankhen,O O O O O O O B_movie,movie.language
+can you tell me the language of the movie aankhen,O O O O O O O O O B_movie,movie.language
+what are the names of films produced by steven spielberg,O O O O O O O O B_producer I_producer,movie.produced_by
+can you tell me names of some movies by director martin scorsese,O O O O O O O O O O B_director I_director,movie.directed_by
+find movie titles,O O O,
+what are the names of movies made in the united states,O O O O O O O O O B_country I_country,movie.country
+i would like to know the names of all the movies which have been directed by james cameron,O O O O O O O O O O O O O O O O B_director I_director,movie.directed_by
+what are the titles of all the movies that george lucas produced,O O O O O O O O O B_producer I_producer O,movie.produced_by
+names of romantic indian films,O O B_genre B_country O,movie.country movie.language movie.genre
+can you show me names of some indian romantic movies,O O O O O O O B_country B_genre O,movie.country movie.language movie.genre
+i would like to know names of some indian movies,O O O O O O O O B_country O,movie.country movie.language
+japanese movie titles,B_country O O,movie.country movie.language
+can you give me names of some movies having pg thirteen rating,O O O O O O O O O B_mpaa_rating I_mpaa_rating O,movie.rating
+i would like to get names of some movies with pg thirteen rating,O O O O O O O O O O B_mpaa_rating I_mpaa_rating O,movie.rating
+show me names of some romantic movies having a pg thirteen rating,O O O O O B_genre O O O B_mpaa_rating I_mpaa_rating O,movie.rating movie.genre
+what are the names of movies with zombies in them,O O O O O O O B_subject O O,movie.subjects
+i need to know the names of all the movies produced by william packer,O O O O O O O O O O O O B_producer I_producer,movie.produced_by
+stephen king directed what movie,B_director I_director O O O,movie.directed_by
+what movies did stephen king direct,O O O B_director I_director O,movie.directed_by
+watch the last james cameron movie,O O O B_director I_director O,movie.directed_by movie.initial_release_date
+find movies by release date,O O O O O,movie.initial_release_date
+show movie ratings,O O O,movie.rating
+movie ratings,O O,movie.rating
+richard lester produced what other movies,B_producer I_producer O O O O,movie.produced_by
+show me westerns,O O B_genre,movie.genre
+was kevin bacon in apollo thirteen,O B_cast I_cast O B_movie I_movie,movie.starring.actor
+i need movie information for life is beautiful,O O O O O B_movie I_movie I_movie,
+life is beautiful movie page,B_movie I_movie I_movie O O,
+i want to know more about the movie life is beautiful,O O O O O O O O B_movie I_movie I_movie,
+i would like info on the movie life is beautiful,O O O O O O O B_movie I_movie I_movie,
+please show me info on the movie life is beautiful,O O O O O O O B_movie I_movie I_movie,
+search for the movie life is beautiful,O O O O B_movie I_movie I_movie,
+what are the particulars for the movie life is beautiful,O O O O O O O B_movie I_movie I_movie,
+can i see more info the movie life is beautiful,O O O O O O O B_movie I_movie I_movie,
+can you show me info on the movie life is beautiful please,O O O O O O O O B_movie I_movie I_movie O,
+display information for the movie life is beautiful,O O O O O B_movie I_movie I_movie,
+find movies about dancing,O O O B_subject,movie.subjects
+i want to look up movies about dancing,O O O O O O O B_subject,movie.subjects
+look up movies about dancing,O O O O B_subject,movie.subjects
+search for movies about dancing,O O O O B_subject,movie.subjects
+give me a list of will ferrell films,O O O O O B_person I_person O,movie.starring.actor
+i want to see any movies will ferrell has been in,O O O O O O B_cast I_cast O O O,movie.starring.actor
+i would like to see will ferrell movies,O O O O O B_person I_person O,movie.starring.actor
+list will ferrell films,O B_person I_person O,movie.starring.actor
+movies will ferrell played in,O B_cast I_cast O O,movie.starring.actor
+what are some films will ferrell starred in,O O O O B_cast I_cast O O,movie.starring.actor
+what movies has will ferrell been in,O O O B_cast I_cast O O,movie.starring.actor
+what movies is will ferrell in,O O O B_cast I_cast O,movie.starring.actor
+will ferrell films,B_person I_person O,movie.starring.actor
+will ferrell movies,B_person I_person O,movie.starring.actor
+will ferrell movies,B_person I_person O,movie.starring.actor
+will ferell videos,B_person I_person O,movie.starring.actor
+i want to see videos of will ferrell,O O O O O O B_person I_person,movie.starring.actor
+all videos of will ferrell,O O O B_person I_person,movie.starring.actor
+can you find me movies in russian,O O O O O O B_language,movie.language
+where can i find movies in russian,O O O O O O B_language,movie.language
+find russian movies,O B_country O,movie.country movie.language
+find russian movies,O B_country O,movie.country movie.language
+search for russian movies,O O B_country O,movie.country movie.language
+show me movies from poland,O O O O B_country,movie.country
+i would like to see a polish language film,O O O O O O B_language I_language O,movie.language
+i am interested in watching a movie in polish,O O O O O O O O B_language,movie.language
+i want to see a polish movie,O O O O O O O,movie.country movie.language
+list some funny russian movies,O O O O O,movie.country movie.language movie.genre
+i am looking for the information on the movie pretty women,O O O O O O O O O B_movie I_movie,
+list of barry sonnenfeld films,O O B_director I_director O,movie.directed_by
+find martin scorsese films,O B_director I_director O,movie.directed_by
+i want to see a movie which was directed by scorsese,O O O O O O O O O O B_director,movie.directed_by
+show all movies directed by martin scorcese,O O O O O B_director I_director,movie.directed_by
+movies with meg ryan,O O B_cast I_cast,movie.starring.actor
+gross earnings for movies,O O O O,movie.gross_revenue
+i want to watch movies directed by jackie chan,O O O O O O O B_director I_director,movie.directed_by
+star wars,B_movie I_movie,
+what are the plots of hotel rwanda,O O O O O B_movie I_movie,
+tim burton movies,B_director I_director O,movie.directed_by
+bings movie page finding nemo,O O O B_movie I_movie,
+display information for film finding nemo,O O O O B_movie I_movie,
+finding nemo movie shortcut,B_movie I_movie O O,
+whats some details for the movie finding nemo,O O O O O O B_movie I_movie,
+show all details of original finding nemo movie,O O O O O B_movie I_movie O,movie.initial_release_date
+get details of original finding nemo movie,O O O O B_movie I_movie O,movie.initial_release_date
+finding nemo movie page,B_movie I_movie O O,
+find movie finding nemo,O O B_movie I_movie,
+display all details of original finding nemo movie,O O O O O B_movie I_movie O,
+find all details of original finding nemo movie,O O O O O B_movie I_movie O,
+what has andrew stanton directed,O O B_director I_director O,movie.directed_by
+what movies has andrew stanton directed,O O O B_director I_director O,movie.directed_by
+what did lee unkrich direct,O O B_director I_director O,movie.directed_by
+i would like to see a movie with albert brooks in it,O O O O O O O O B_cast I_cast O O,movie.starring.actor
+find me films produced by drew barrymore,O O O O O B_producer I_producer,movie.produced_by
+what movies that clint eastwood starred in did he also direct,O O O B_director I_director O O O O O O,movie.starring.actor movie.directed_by
+what movies did clint eastwood direct and star in,O O O B_director I_director O O O O,movie.starring.actor movie.directed_by
+i want to watch a movie by sergio leone,O O O O O O O B_director I_director,movie.directed_by
+show me movies directed by sergio leone,O O O O O B_director I_director,movie.directed_by
+movies that have been directed by tony scott,O O O O O O B_director I_director,movie.directed_by
+show me movies from brazil,O O O O B_country,movie.country
+show me horror movie earnings,O O B_genre O O,movie.gross_revenue movie.genre
+movies with harrison ford,O O B_cast I_cast,movie.starring.actor
+show me only movies with harrison ford,O O O O O B_cast I_cast,movie.starring.actor
+name the movies clive owen has been in,O O O B_cast I_cast O O O,movie.starring.actor
+what movies has clive owen been in,O O O B_cast I_cast O O,movie.starring.actor
+what movies has clive owen starred in,O O O B_cast I_cast O O,movie.starring.actor
+find ms. congeniality,O B_movie I_movie,
+find spike lee directed movies,O B_director I_director O O,movie.directed_by
+what movies did spike lee direct,O O O B_director I_director O,movie.directed_by
+movies cecil b demille,O B_person I_person I_person,movie.directed_by
+i want to see a comedy in spanish,O O O O O B_genre O B_language,movie.language movie.genre
+find films,O O,
+find films,O O,
+find movies,O O,
+in search for movies,O O O O,
+looking for movies,O O O,
+find a movie,O O O,
+are there movies not rated g,O O O O O B_mpaa_rating,movie.rating
+can you find some drama movies,O O O O B_genre O,movie.genre
+i'd like to watch something with drama,O O O O O O B_genre,movie.genre
+looking for a drama movie,O O O B_genre O,movie.genre
+show me a list of movies in english,O O O O O O O B_language,movie.language
+show me english movies,O O B_language O,movie.language
+find english movies,O B_language O,movie.language
+can i get a list of movies available in english,O O O O O O O O O B_language,movie.language
+show me movies in english,O O O O B_language,movie.language
+i would like to see movies in english,O O O O O O O B_language,movie.language
+movies in english,O O B_language,movie.language
+show me a list of all movies made in the united states,O O O O O O O O O O B_country I_country,movie.country
+what are all movies made by united states,O O O O O O B_country I_country,movie.country
+what movies have been made in the united states,O O O O O O O B_country I_country,movie.country
+movies from the us,O O O B_country,movie.country
+what are all of the movies made in usa,O O O O O O O O B_country,movie.country
+i want to see movies made in america,O O O O O O O B_country,movie.country
+show me a list of movies made in america,O O O O O O O O B_country,movie.country
+show me movies made in america,O O O O O B_country,movie.country
+please tell me if you have any movies from the united states,O O O O O O O O O O B_country I_country,movie.country
+movies from the us,O O O B_country,movie.country
+please tell me about movies from the usa,O O O O O O O B_country,movie.country
+english movie list,B_language O O,movie.country movie.language
+show me thrillers,O O B_genre,movie.genre
+show me thrillers,O O B_genre,movie.genre
+show me comedies,O O B_genre,movie.genre
+looking for a comedy movie,O O O B_genre O,movie.genre
+see comedy,O B_genre,movie.genre
+show me comedy movies,O O B_genre O,movie.genre
+show me funny movies,O O B_genre O,movie.genre
+movies that have comedy,O O O B_genre,movie.genre
+can you show me a list of scary movies,O O O O O O O B_genre O,movie.genre
+i am in the mood for a horror film,O O O O O O O B_genre O,movie.genre
+looking for a horror movie,O O O B_genre O,movie.genre
+search for horror movies,O O B_genre O,movie.genre
+show me horror movies,O O B_genre O,movie.genre
+show only horror movies,O O B_genre O,movie.genre
+show me a list of scary movies,O O O O O B_genre O,movie.genre
+i want to see a list of scary movies,O O O O O O O B_genre O,movie.genre
+funny scary movies,B_genre I_genre O,movie.genre
+movies by producer,O O O,movie.produced_by
+find movies by producer,O O O O,movie.produced_by
+movies with bruce willis,O O B_cast I_cast,movie.starring.actor
+clint eastwood movies,B_person I_person O,movie.starring.actor
+find movies from canada,O O O B_country,movie.country
+get me canadian movies,O O B_country O,movie.country
+show me movies from canada,O O O O B_country,movie.country
+look up information about canadian movies,O O O O B_country O,movie.country
+get movies from canada,O O O B_country,movie.country
+show me a list of any movies made in canada,O O O O O O O O O B_country,movie.country
+find movies filmed in canada,O O O O B_country,movie.country
+get films made in canada,O O O O B_country,movie.country
+show me canadian films,O O B_country O,movie.country
+show me canadian movies,O O B_country O,movie.country
+are there any canadian movies,O O O B_country O,movie.country
+are there any canadian movies,O O O B_country O,movie.country
+find canadian films,O B_country O,movie.country
+what are some movies made outside the us,O O O O O O O B_country,movie.country
+movies from germany,O O B_country,movie.country
+i want to watch movies from germany,O O O O O O B_country,movie.country
+display movies made in germany,O O O O B_country,movie.country
+find movies done in germany,O O O O B_country,movie.country
+what movies do you have that were made in italy,O O O O O O O O O B_country,movie.country
+movies from italy,O O B_country,movie.country
+does italy make any movies,O B_country O O O,movie.country
+find italian movies,O B_country O,movie.country movie.language
+italian films,B_country O,movie.country movie.language
+italian movies,B_country O,movie.country movie.language
+show me italian movies,O O B_country O,movie.country movie.language
+get all italian language movies,O O B_language I_language O,movie.language
+send me movies that are in italian,O O O O O O B_language,movie.language
+movies with italian language,O O B_language I_language,movie.language
+show me movies in italian,O O O O B_language,movie.language
+what movies are in italian,O O O O B_language,movie.language
+search for movies in italian,O O O O B_language,movie.language
+find movies in italian,O O O B_language,movie.language
+a list of all italian speaking movies,O O O O B_language O O,movie.language
+give me a list of movies from spain,O O O O O O O B_country,movie.country
+see movies from spain,O O O B_country,movie.country
+movies from spain,O O B_country,movie.country
+movies from spain,O O B_country,movie.country
+i want to see movies from spain,O O O O O O B_country,movie.country
+movies made in spain,O O O B_country,movie.country
+are there any movies made in spain,O O O O O O B_country,movie.country
+bring up spanish movies,O O B_language O,movie.country movie.language
+can you show me movies spanish,O O O O O B_language,movie.country movie.language
+can you show me spanish movies,O O O O B_language O,movie.country movie.language
+find spanish movies,O B_language O,movie.country movie.language
+find spanish movies,O B_language O,movie.country movie.language
+get me spanish movies,O O B_language O,movie.country movie.language
+I'd like a list of spanish movies,O O O O O B_language O,movie.country movie.language
+I'd like to know some spanish movies,O O O O O B_language O,movie.country movie.language
+i want only spanish movies,O O O B_language O,movie.country movie.language
+i want to look up spanish movies,O O O O O B_language O,movie.country movie.language
+list spanish movies,O B_language O,movie.country movie.language
+list spanish movies,O B_language O,movie.country movie.language
+look for spanish movies,O O B_language O,movie.country movie.language
+search for spanish movies,O O B_language O,movie.country movie.language
+search for spanish movies,O O B_language O,movie.country movie.language
+show me spanish movies,O O B_language O,movie.country movie.language
+spanish movie listing,B_language O O,movie.country movie.language
+spanish movies,B_language O,movie.country movie.language
+find romance movies,O B_genre O,movie.genre
+give me a list of romance movies,O O O O O B_genre O,movie.genre
+find me romantic movies,O O B_genre O,movie.genre
+i want to find romantic movies,O O O O B_genre O,movie.genre
+locate romantic movies for me,O B_genre O O O,movie.genre
+list some movies that are in french,O O O O O O B_language,movie.language
+find french language movies,O B_language I_language O,movie.language
+find movies in french,O O O B_language,movie.language
+find movies is french,O O O B_language,movie.language
+list movies in french,O O O B_language,movie.language
+look for movies in french,O O O O B_language,movie.language
+search for movies in french,O O O O B_language,movie.language
+search for movies in french,O O O O B_language,movie.language
+show me movies produced in french,O O O O O B_language,movie.language
+show movies in french,O O O B_language,movie.language
+show only movies that are in french,O O O O O O B_language,movie.language
+find french language movies,O B_language I_language O,movie.language
+list of all french speaking films,O O O B_language O O,movie.language
+list of french language movies,O O B_language I_language O,movie.language
+show me movies in french,O O O O B_language,movie.language
+can you list movies in french,O O O O O B_language,movie.language
+find all films showing in french,O O O O O B_language,movie.language
+show me a list of all the movies produced by william packer,O O O O O O O O O O B_producer I_producer,movie.produced_by
+information about movie,O O O,
+show me information about movie,O O O O O,
+show me information on movie,O O O O O,
+tell me about movie,O O O O,
+please show me all of the films that involve kevin bacon,O O O O O O O O O B_person I_person,movie.starring.actor
+i want movies about 9-11,O O O O B_subject,movie.subjects
+what other movies has bill paxton starred in,O O O O B_cast I_cast O O,movie.starring.actor
+find some suspenseful movies,O O B_genre O,movie.genre
+a movie based on time travel,O O O O B_subject I_subject,movie.subjects
+find time travel movies,O B_subject I_subject O,movie.subjects
+give me a list of time travel movies,O O O O O B_subject I_subject O,movie.subjects
+movies about time travel,O O B_subject I_subject,movie.subjects
+show me movies about time travel,O O O O B_subject I_subject,movie.subjects
+show me movies with time travel themes,O O O O B_subject I_subject O,movie.subjects
+show me time travel movies,O O B_subject I_subject O,movie.subjects
+show videos about time travel,O O O B_subject I_subject,movie.subjects
+time travel movies,B_subject I_subject O,movie.subjects
+what are movies whose topic involves time travel,O O O O O O B_subject I_subject,movie.subjects
+movies about time travel,O O B_subject I_subject,movie.subjects
+movies about time travel,O O B_subject I_subject,movie.subjects
+show me movies about time travel,O O O O B_subject I_subject,movie.subjects
+show me movies about time travel,O O O O B_subject I_subject,movie.subjects
+show me some movies that are related to time travel,O O O O O O O O B_subject I_subject,movie.subjects
+what are some movies that involve time travel,O O O O O O B_subject I_subject,movie.subjects
+what movies discuss time travel,O O O B_subject I_subject,movie.subjects
+quentin tarrantino movies,B_director I_director O,movie.directed_by
+what movies did quentin terrantino direct,O O O B_director I_director O,movie.directed_by
+list the movies anna paquin has starred in,O O O B_cast I_cast O O O,movie.starring.actor
+movies from england,O O B_country,movie.country
+movies from england,O O B_country,movie.country
+movies from england please,O O B_country O,movie.country
+show me england movies,O O B_country O,movie.country
+show me movies from england,O O O O B_country,movie.country
+show me movies made in england,O O O O O B_country,movie.country
+find movies directed by chris columbus,O O O O B_director I_director,movie.directed_by
+what other movies has richard lester directed,O O O O B_director I_director O,movie.directed_by
+search for movies by language,O O O O O,movie.language
+mandarin movie please,B_language O O,movie.language
+please find a movie in mandarin,O O O O O B_language,movie.language
+movie made in mandarin,O O O B_language,movie.language
+which movies are originally in a foreign language,O O O O O O O O,movie.language
+find me tamil movies,O O B_language O,movie.language
+show me the latest movies in tamil,O O O O O O B_language,movie.language
+find hindi movies,O B_language O,movie.language
+find movies in hindi,O O O B_language,movie.language
+list the hindi movies,O O B_language O,movie.language
+what is hindi,O O B_language,movie.language
+i would like to get a list of movie names in hindi language,O O O O O O O O O O O B_language I_language,movie.language
+what films are not spoken in english,O O O O O O B_language,movie.language
+what movies are spoken in another language,O O O O O O O,movie.language
+i want to watch a romance made in india,O O O O O B_genre O O B_country,movie.country movie.genre
+i need to get a list of some romantic indian movies,O O O O O O O O B_genre I_country O,movie.country movie.language movie.genre
+find movies from india,O O O B_country,movie.country
+look up movies from india,O O O O B_country,movie.country
+see movies from india,O O O B_country,movie.country
+find indian movies,O B_country O,movie.country movie.language
+give me a list of some indian movies,O O O O O O B_country O,movie.country movie.language
+brian de palma movies,B_director I_director I_director O,movie.directed_by
+complete list of movies made by searchlight films,O O O O O O B_producer O,movie.production_companies
+list movies by searchlight films,O O O B_producer O,movie.production_companies
+list of movies produced by searchlight films,O O O O O B_producer O,movie.production_companies
+what are some movies made by searchlight films,O O O O O O B_producer O,movie.production_companies
+movies about bank robberies,O O B_subject I_subject,movie.subjects
+show me sarah polley movies,O O B_person I_person O,movie.starring.actor
+show me french r rated dramas,O O B_language B_mpaa_rating O B_genre,movie.country movie.language movie.genre movie.rating
+list french language comedy films,O B_language I_language B_genre O,movie.language movie.genre
+show french comedy films,O B_language B_genre O,movie.language movie.genre
+what are some movies that were produced in europe,O O O O O O O O B_country,movie.country
+films produced by laurie macdonald,O O O B_producer I_producer,movie.produced_by
+find me dreamworks films,O O B_producer O,movie.production_companies
+movie by dreamworks,O O B_producer,movie.production_companies
+movie made by dreamworks,O O O B_producer,movie.production_companies
+what movies are made by dreamworks,O O O O O B_producer,movie.production_companies
+i'm looking for the cost of some movies,O O O O O O O O,movie.estimated_budget
+what movies did kevin costner direct,O O O B_director I_director O,movie.directed_by
+dirty dancing movie,B_movie I_movie O,
+dirty dancing movie short cuts,B_movie I_movie O O O,
+show me the dirty dancing movie,O O O B_movie I_movie O,
+will you please show me info on the movie dirty dancing,O O O O O O O O O B_movie I_movie,
+find the movie dirty dancing,O O O B_movie I_movie,
+get me info for the movie dirty dancing,O O O O O O B_movie I_movie,
+i need to get every possible information related with the movie dirty dancing,O O O O O O O O O O O B_movie I_movie,
+i want to see infomation on the movie dirty dancing,O O O O O O O O B_movie I_movie,
+i would like to get all the information about the movie dirty dancing,O O O O O O O O O O O B_movie I_movie,
+please show me info on the movie dirty dancing,O O O O O O O B_movie I_movie,
+show me all the information about the movie dirty dancing like story reviews cast etc,O O O O O O O O B_movie I_movie O O O O O,
+show me info on the movie dirty dancing please,O O O O O O B_movie I_movie O,
+show me information for the movie dirty dancing,O O O O O O B_movie I_movie,
+show me more details for the movie dirty dancing,O O O O O O O B_movie I_movie,
+can you please show me info on the movie dirty dancing,O O O O O O O O O B_movie I_movie,
+can you tell me about the movie dirty dancing in detail,O O O O O O O B_movie I_movie O O,
+what films has robert redford directed,O O O B_director I_director O,movie.directed_by
+i want to see a robert redford produced movie,O O O O O B_producer I_producer O O,movie.produced_by
+i would like to see something produced by robert redford,O O O O O O O O B_producer I_producer,movie.produced_by
+bette midler movies,B_person I_person O,movie.starring.actor
+bette midler movies please,B_person I_person O O,movie.starring.actor
+show bette midler movies,O B_person I_person O,movie.starring.actor
+show me cameron diaz movies,O O B_person I_person O,movie.starring.actor
+show me movies with jennifer aniston,O O O O B_cast I_cast,movie.starring.actor
+russell crowe movies,B_person I_person O,movie.starring.actor
+about life is beautiful,O B_movie I_movie I_movie,
+details about life is beautiful please,O O B_movie I_movie I_movie O,
+find synopsis for life is beautiful,O O O B_movie I_movie I_movie,
+i need page on life is beautiful,O O O O B_movie I_movie I_movie,
+i want information about life is beautiful,O O O O B_movie I_movie I_movie,
+i want to know about life is beautiful,O O O O O B_movie I_movie I_movie,
+i would like to view info on life is beautiful,O O O O O O O B_movie I_movie I_movie,
+life is beautiful,B_movie I_movie I_movie,
+run a search for life is beautiful,O O O O B_movie I_movie I_movie,
+show me life is beautiful information,O O B_movie I_movie I_movie O,
+what's the synopsis of life is beatiful,O O O O B_movie I_movie I_movie,
+footloose,B_movie,
+show jason statham movies,O B_person I_person O,movie.starring.actor
+find movies from new zealand,O O O B_country I_country,movie.country
+show me the movies acted by bala krishna,O O O O O O B_cast I_cast,movie.starring.actor
+korean language movie,B_language I_language O,movie.language
+show me korean language movie,O O B_language I_language O,movie.language
+can you find the movies with korean language,O O O O O O B_language I_language,movie.language
+show me movies that are in korean,O O O O O O B_language,movie.language
+portugese movies,B_country O,movie.country movie.language
+current movie options for today with patrick swayze,O O O O O O B_cast I_cast,movie.starring.actor movie.initial_release_date
+display all results for dirty dancing,O O O O B_movie I_movie,
+find information on dirty dancing,O O O B_movie I_movie,
+search for dirty dancing,O O B_movie I_movie,
+search for dirty dancing,O O B_movie I_movie,
+how can i view dirty dancing,O O O O B_movie I_movie,
+dirty dancing facts,B_movie I_movie O,
+did alfred hitchcock direct a comedy,O B_director I_director O O B_genre,movie.directed_by movie.genre
+martin lawrence directed what movie,B_director I_director O O O,movie.directed_by
+find movies from japan,O O O B_country,movie.country
+show me movies from japan,O O O O B_country,movie.country
+show me movies from japan,O O O O B_country,movie.country
+what are some movies made in japan,O O O O O O B_country,movie.country
+what movies came from japan,O O O O B_country,movie.country
+which movies were made in japan,O O O O O B_country,movie.country
+i want to find a list of movies made in japan,O O O O O O O O O O B_country,movie.country
+do you have any movies made in japan,O O O O O O O B_country,movie.country
+find japanese movies,O B_country O,movie.country movie.language
+find japanese movies,O B_country O,movie.country movie.language
+give me some names of japanese movies,O O O O O B_country O,movie.country movie.language
+i want japanese movies,O O B_country O,movie.country movie.language
+i want to see japanese movies,O O O O B_country O,movie.country movie.language
+i would like to know names of some of the japanese movies,O O O O O O O O O O B_country O,movie.country movie.language
+japanese movies,B_country O,movie.country movie.language
+show me a list of some japanese movies,O O O O O O B_country O,movie.country movie.language
+show me japanese movies,O O B_country O,movie.country movie.language
+sort in all japanese movies,O O O B_country O,movie.country movie.language
+do you have a list of japanese movies,O O O O O O B_country O,movie.country movie.language
+i want to see a film in japanese,O O O O O O O B_language,movie.language
+show me movies in japanese,O O O O B_language,movie.language
+films with japaneese,O O B_language,movie.language
+what movies have people speaking japanese in them,O O O O O B_language O O,movie.language
+what are some japanese movies,O O O B_country O,movie.country movie.language
+find movies in british english,O O O B_language I_language,movie.language
+find movies from miramax,O O O B_producer,movie.production_companies
+see miramax movies,O B_producer O,movie.production_companies
+watch miramax,O B_producer,movie.production_companies
+find movies with sandra bullock,O O O B_cast I_cast,movie.starring.actor
+find sandra bullock movies,O B_person I_person O,movie.starring.actor
+movies with sandra bullock,O O B_cast I_cast,movie.starring.actor
+movies with vampires,O O B_subject,movie.subjects
+what movies about vampires are there,O O O B_subject O O,movie.subjects
+movies will smith stars in,O B_cast I_cast O O,movie.starring.actor
+show me will smith movies,O O B_person I_person O,movie.starring.actor
+what experience does darla anderson have as a producer,O O O B_producer I_producer O O O O,movie.produced_by
+look for movies directed by tyler perry,O O O O O B_director I_director,movie.directed_by
+which movies are directed by tyler perry,O O O O O B_director I_director,movie.directed_by
+give me movies directed by tyler perry,O O O O O B_director I_director,movie.directed_by
+search for movies directed by tyler perry,O O O O O B_director I_director,movie.directed_by
+what films has selena gomez been in,O O O B_cast I_cast O O,movie.starring.actor
+find a movie with mel gibson,O O O O B_cast I_cast,movie.starring.actor
+only mel gibson movies,O B_person I_person O,movie.starring.actor
+find movies produced by paramount pictures,O O O O B_producer I_producer,movie.production_companies
+i want to see paramount movies,O O O O B_producer O,movie.production_companies
+i would like a list of paramount movies,O O O O O O B_producer O,movie.production_companies
+list some paramount produced films,O O B_producer O O,movie.production_companies
+show all movies by paramount,O O O O B_producer,movie.production_companies
+show me all the movies made by paramount,O O O O O O O B_producer,movie.production_companies
+show only paramount movies,O O B_producer O,movie.production_companies
+is there a list of movies about chess,O O O O O O O B_subject,movie.subjects
+movies about chess,O O B_subject,movie.subjects
+movies regarding the hobby of chess,O O O O O B_subject,movie.subjects
+list some of the best world war 2 films,O O O O O B_subject I_subject I_subject O,movie.subjects
+find movies about dogs,O O O B_subject,movie.subjects
+find movies with a nc 17 only,O O O O B_mpaa_rating I_mpaa_rating O,movie.rating
+find me nc-17 movies,O O B_mpaa_rating O,movie.rating
+show me nc seventeen movies,O O B_mpaa_rating I_mpaa_rating O,movie.rating
+play movies from turkey,O O O B_country,movie.country
+what movies have come out of turkey,O O O O O O B_country,movie.country
+can i have a list of bruce lee produced movies,O O O O O O B_producer I_producer O O,movie.produced_by
+can you give me a list of movies produced by bruce lee,O O O O O O O O O O B_producer I_producer,movie.produced_by
+show me movies produced by bruce lee,O O O O O B_producer I_producer,movie.produced_by
+i want to see movies directed by michael bay,O O O O O O O B_director I_director,movie.directed_by
+what movies did michael bay direct,O O O B_director I_director O,movie.directed_by
+ed harris films,B_person I_person O,movie.starring.actor
+show me all movies that star ed harris,O O O O O O B_cast I_cast,movie.starring.actor
+more stuff about the movie go,O O O O O B_movie,
+is parenthood a comedy,O B_movie O B_genre,movie.genre
+find movies produced by mel gibson,O O O O B_producer I_producer,movie.produced_by
+what movies has jerry bruckheimer produced,O O O B_producer I_producer O,movie.produced_by
+i want to see chinese movies,O O O O B_country O,movie.country movie.language
+show me chinese movies,O O B_country O,movie.country movie.language
+show me dramas from china,O O B_genre O B_country,movie.country movie.genre
+i want to watch a drama made in china,O O O O O B_genre O O B_country,movie.country movie.genre
+give me the best baseball movies,O O O O B_subject O,movie.subjects
+list movies filmed in ireland,O O O O B_location,movie.country movie.locations
+list all the movies john travolta has done,O O O O B_person I_person O O,movie.starring.actor
+columbia production company movies,B_producer O O O,movie.production_companies
+find me 20 th century fox films,O O B_producer I_producer I_producer I_producer O,movie.production_companies
+list of 20 th century fox films,O O B_producer I_producer I_producer I_producer O,movie.production_companies
+watch century fox movies,O B_producer I_producer O,movie.production_companies
+films produced by twentieth century fox,O O O B_producer I_producer I_producer,movie.production_companies
+find movies by twentieth century fox,O O O B_producer I_producer I_producer,movie.production_companies
+find twentieth century fox movies,O B_producer I_producer I_producer O,movie.production_companies
+search twentieth century fox,O B_producer I_producer I_producer,movie.production_companies
+show me movies by twentieth century fox,O O O O B_producer I_producer I_producer,movie.production_companies
+show me elvis movies,O O B_person O,movie.starring.actor
+do you have any pg thirteen rated movies,O O O O B_mpaa_rating I_mpaa_rating O O,movie.rating
+show me pg thirteen movies,O O B_mpaa_rating I_mpaa_rating O,movie.rating
+what movies are rated pg thirteen,O O O O B_mpaa_rating I_mpaa_rating,movie.rating
+find pg thirteen movies,O B_mpaa_rating I_mpaa_rating O,movie.rating
+show me movies that are rated pg thirteen,O O O O O O B_mpaa_rating I_mpaa_rating,movie.rating
+list all movies rated pg-13,O O O O B_mpaa_rating,movie.rating
+find movies with pg-13 only,O O O B_mpaa_rating O,movie.rating
+i need to know names of some movies which have a rating of pg-13,O O O O O O O O O O O O O B_mpaa_rating,movie.rating
+i want to find pg-13 rated movies,O O O O B_mpaa_rating O O,movie.rating
+pg-13 movies,B_mpaa_rating O,movie.rating
+which movies are rated pg-13,O O O O B_mpaa_rating,movie.rating
+find a pg-13 movie,O O B_mpaa_rating O,movie.rating
+find me pg-13 movies,O O B_mpaa_rating O,movie.rating
+find movies that are rated pg-13,O O O O O B_mpaa_rating,movie.rating
+give me a list of some movies that have pg-13 rating,O O O O O O O O O B_mpaa_rating O,movie.rating
+i want to see a list of g rated movies,O O O O O O O B_mpaa_rating O O,movie.rating
+list g,O B_mpaa_rating,movie.rating
+what is a list of g movies,O O O O O B_mpaa_rating O,movie.rating
+are there any g movies out there right now,O O O B_mpaa_rating O O O O O,movie.rating
+find me movies rated g,O O O O B_mpaa_rating,movie.rating
+find movies only g,O O O B_mpaa_rating,movie.rating
+get me only g-rated movies,O O O B_mpaa_rating O,movie.rating
+i want a list of movies rated g,O O O O O O O B_mpaa_rating,movie.rating
+i want to see g -rated films now,O O O O B_mpaa_rating O O O,movie.rating
+i want to take my kids to a g movie,O O O O O O O O B_mpaa_rating O,movie.rating
+list of g movies,O O B_mpaa_rating O,movie.rating
+list rating g,O O B_mpaa_rating,movie.rating
+listing of g movies,O O B_mpaa_rating O,movie.rating
+look for movies rated g,O O O O B_mpaa_rating,movie.rating
+look up movies with a g rating,O O O O O B_mpaa_rating O,movie.rating
+play list g,O O B_mpaa_rating,movie.rating
+please select the option to search for g rated movies,O O O O O O O B_mpaa_rating O O,movie.rating
+rating g,O B_mpaa_rating,movie.rating
+search for movies rated g,O O O O B_mpaa_rating,movie.rating
+show me g rated movies,O O B_mpaa_rating O O,movie.rating
+show only g rated movies,O O B_mpaa_rating O O,movie.rating
+what available movies are rated g,O O O O O B_mpaa_rating,movie.rating
+what movies are currently playing that are rated g,O O O O O O O O B_mpaa_rating,movie.rating
+find me movies rated g,O O O O B_mpaa_rating,movie.rating
+find movies that are rated g,O O O O O B_mpaa_rating,movie.rating
+find movies with g rating,O O O B_mpaa_rating O,movie.rating
+g movies,B_mpaa_rating O,movie.rating
+it is hard to find a movie that is rated g anymore,O O O O O O O O O O B_mpaa_rating O,movie.rating
+list movies rated g,O O O B_mpaa_rating,movie.rating
+only movies rated g,O O O B_mpaa_rating,movie.rating
+rating g list,O B_mpaa_rating O,movie.rating
+show me g movies,O O B_mpaa_rating O,movie.rating
+there are several g movies,O O O B_mpaa_rating O,movie.rating
+appropriate for kids,O O O,movie.rating
+what movies can young children watch,O O O O O O,movie.rating
+watch pg and g movies,O B_mpaa_rating O B_mpaa_rating O,movie.rating
+did robert wise direct any other musical films,O B_director I_director O O O B_genre O,movie.directed_by movie.genre
+find love stories,O B_subject O,movie.subjects
+find love stories,O B_subject O,movie.subjects
+show me a list of movies produced by mgm,O O O O O O O O B_producer,movie.production_companies
+movies from the uk,O O O B_country,movie.country
+show me british films,O O B_country O,movie.country
+list uk movies,O B_country O,movie.country
+get films from the united kingdom,O O O O B_country I_country,movie.country
+i want to watch a comedy made in norway,O O O O O B_genre O O B_country,movie.country movie.genre
+get me a list of movies that ron howard produce,O O O O O O O B_producer I_producer O,movie.produced_by
+ron howard movies produce list,B_producer I_producer O O O,movie.produced_by
+list movies directed by clint eastwood,O O O O B_director I_director,movie.directed_by
+show director clint eastwood movies,O O B_director I_director O,movie.directed_by
+what movies did clint eastwood direct,O O O B_director I_director O,movie.directed_by
+movies directed by clint eastwood,O O O B_director I_director,movie.directed_by
+list movies produced by sean penn,O O O O B_producer I_producer,movie.produced_by
+find movies about vietnam,O O O B_subject,movie.subjects
+what movies has spielberg been a producer on,O O O B_producer O O O O,movie.produced_by
+i would like to select the option to search for movies produced by stephen spielberg,O O O O O O O O O O O O O O B_producer,movie.produced_by
+please list all movies that stephen spielberg produced,O O O O O O B_producer O,movie.produced_by
+select the option to search for movies produced by stephen spielberg,O O O O O O O O O O B_producer,movie.produced_by
+which productions are from stephen spilberg,O O O O B_producer I_producer,movie.produced_by
+find movies produced by steven spielberg,O O O O B_producer I_producer,movie.produced_by
+list steven spielberg produced movies,O B_producer I_producer O O,movie.produced_by
+show me movies produced by stephen spielberg,O O O O O B_producer I_producer,movie.produced_by
+was kevin james in hitch,O B_cast I_cast O B_movie,movie.starring.actor
+was will smith in hitch,O B_cast I_cast O B_movie,movie.starring.actor
+show me a list of disney movies,O O O O O B_producer O,movie.production_companies
+give me a list of some movies by producer walt disney,O O O O O O O O O B_producer I_producer,movie.production_companies
+list all movies that walt disney produced,O O O O B_producer I_producer O,movie.production_companies
+show all movies directed by ron howard,O O O O O B_director I_director,movie.directed_by
+what movies has ron howard directed,O O O B_director I_director O,movie.directed_by
+find movies by ron howard,O O O B_director I_director,movie.directed_by
+show movies directed by ron howard,O O O O B_director I_director,movie.directed_by
+find movies produced by brian glazer,O O O O B_producer I_producer,movie.produced_by
+list spielberg movies,O B_director O,movie.directed_by
+show spielberg movies,O B_director O,movie.directed_by
+what did spielberg direct,O O B_director O,movie.directed_by
+stephen spielberg movies,B_director I_director O,movie.directed_by
+filmography for steven spielberg,O O B_director I_director,movie.directed_by
+find movies directed by steven spielberg,O O O O B_director I_director,movie.directed_by
+find steven spielberg movies,O B_director I_director O,movie.directed_by
+i want to find movies directed by stephen speilberg,O O O O O O O B_director I_director,movie.directed_by
+list all steven spielberg movies,O O B_director I_director O,movie.directed_by
+please find the movies by steven spielberg,O O O O O B_director I_director,movie.directed_by
+show films by steven spielberg,O O O B_director I_director,movie.directed_by
+show steven spielberg movies,O B_director I_director O,movie.directed_by
+show steven spielberg movies,O B_director I_director O,movie.directed_by
+steven spielberg movies,B_director I_director O,movie.directed_by
+steven spielberg pictures,B_director I_director O,movie.directed_by
+what movies has steven spielberg done,O O O B_director I_director O,movie.directed_by
+find movies directed by steven spielberg,O O O O B_director I_director,movie.directed_by
+movie by steven spielberg,O O B_director I_director,movie.directed_by
+movie stuff for steven spielberg,O O O B_director I_director,movie.directed_by
+movies by steven spielberg,O O B_director I_director,movie.directed_by
+movies directed by steven spielberg,O O O B_director I_director,movie.directed_by
+can i see what movies steven spielberg has done,O O O O O B_director I_director O O,movie.directed_by
+can you find movies with steven spielberg,O O O O O B_director I_director,movie.directed_by
+spielberg movies,B_director O,movie.directed_by
+videos of steven spielberg,O O B_director I_director,movie.directed_by
+find a list of movies directed by spielberg,O O O O O O O B_director,movie.directed_by
+show me the movies that spielberg made,O O O O O B_director O,movie.directed_by
+can you please search for movies by steven spielberg,O O O O O O O B_director I_director,movie.directed_by
+find movies directed by stephen spielberg,O O O O B_director I_director,movie.directed_by
+find movies directed by stephen spielberg,O O O O B_director I_director,movie.directed_by
+i would like to search for movies directed by stephen spielberg,O O O O O O O O O B_director I_director,movie.directed_by
+list some movies directed by steven spielberg,O O O O O B_director I_director,movie.directed_by
+please find movies directed by stephen spielberg,O O O O O B_director I_director,movie.directed_by
+show me movies directed by steven spielberg,O O O O O B_director I_director,movie.directed_by
+show me the movies directed by steven spielberg,O O O O O O B_director I_director,movie.directed_by
+which movies are from stephen spielberg,O O O O B_director I_director,movie.directed_by
+gilda charles vidor,B_movie B_director I_director,movie.directed_by
+show me movie gilda by charles vidor,O O O B_movie O B_director I_director,movie.directed_by
+find some musical movies,O O B_genre O,movie.genre
+looking for a musical movie,O O O B_genre O,movie.genre
+show me a list of musicals,O O O O O B_genre,movie.genre
+find the movie hum tum,O O O B_movie I_movie,
+find movies directed by eddie murphy,O O O O B_director I_director,movie.directed_by
+search movies by noah baumbach,O O O B_director I_director,movie.directed_by
+search chick flicks,O B_genre I_genre,movie.genre
+can you show me movies about war,O O O O O O B_subject,movie.subjects
+show me some war themed movies,O O O B_subject O O,movie.subjects
+show movies concerning war,O O O B_subject,movie.subjects
+please list movies about war,O O O O B_subject,movie.subjects
+list movies about war,O O O B_subject,movie.subjects
+what movies are made by twentieth century fox television,O O O O O B_producer I_producer I_producer I_producer,movie.production_companies
+find movies directed by todd solondz,O O O O B_director I_director,movie.directed_by
+find me movies with hugh jackman,O O O O B_cast I_cast,movie.starring.actor
+what ron howard movies are rated pg-13,O B_director I_director O O O B_mpaa_rating,movie.rating movie.directed_by
+look for dramas made or shot in france,O O B_genre O O O O B_country,movie.country movie.genre
+find movies from france,O O O B_country,movie.country
+i want to see movies from france,O O O O O O B_country,movie.country
+movies from france,O O B_country,movie.country
+what are all the movies to come out of france,O O O O O O O O O B_country,movie.country
+give me a list of movies made in france,O O O O O O O O B_country,movie.country
+i am looking for movies made in france,O O O O O O O B_country,movie.country
+i want to see a list of movies that were made in france,O O O O O O O O O O O O B_country,movie.country
+i would like to view any movies made in france,O O O O O O O O O B_country,movie.country
+please show me movies made in france,O O O O O O B_country,movie.country
+find movies from france,O O O B_country,movie.country
+find movies from france,O O O B_country,movie.country
+what movies were filmed in france,O O O O O B_country,movie.country
+find french films,O B_country O,movie.country movie.language
+find french movies,O B_country O,movie.country movie.language
+find french movies,O B_country O,movie.country movie.language
+french movies,B_country O,movie.country movie.language
+i would like to see french movies,O O O O O B_country O,movie.country movie.language
+list french movies,O B_country O,movie.country movie.language
+look for french movies,O O B_country O,movie.country movie.language
+look up french movies,O O B_country O,movie.country movie.language
+show me french movies,O O B_country O,movie.country movie.language
+show me only french foreign films,O O O B_country O O,movie.country movie.language
+are there any french films showing,O O O B_country O O,movie.country movie.language
+show me mystery movies,O O B_genre O,movie.genre
+find movies produced by disney pixar,O O O O O B_producer,movie.production_companies
+show me pixar films,O O B_producer O,movie.production_companies
+find movies produced by lucas films,O O O O B_producer O,movie.production_companies
+i would like to find movies starring the singer mario,O O O O O O O O B_cast I_cast,movie.starring.actor
+look for movies starring the singer mario,O O O O O B_cast I_cast,movie.starring.actor
+search for movies starring the singer mario,O O O O O B_cast I_cast,movie.starring.actor
+bring up all diving movies,O O O B_subject O,movie.subjects
+bring up all diving related movies,O O O B_subject O O,movie.subjects
+show me all movies about diving,O O O O O B_subject,movie.subjects
+show me diving movies,O O B_subject O,movie.subjects
+sort in all diving movies,O O O B_subject O,movie.subjects
+what is the plot of vulgaria,O O O O O B_movie,
+find movies by mosfilm,O O O B_producer,movie.production_companies
+search for movies that were produced by mosfilm,O O O O O O O B_producer,movie.production_companies
+what films deal with immigrants in america,O O O O B_subject I_subject I_subject,movie.subjects
+look for cher movies,O O B_person O,movie.starring.actor
+show me cher movies,O O B_person O,movie.starring.actor
+eva mendes films,B_person I_person O,movie.starring.actor
+the god father,B_movie I_movie I_movie,
+i need a list of tom hanks movies,O O O O O B_person I_person O,movie.starring.actor
+i want to view only movies with tom hanks,O O O O O O O B_cast I_cast,movie.starring.actor
+i want to watch movies with tom hanks,O O O O O O B_cast I_cast,movie.starring.actor
+list tom hanks movies for me,O B_person I_person O O O,movie.starring.actor
+movies with tom hanks,O O B_cast I_cast,movie.starring.actor
+show me tom hanks movies,O O B_person I_person O,movie.starring.actor
+show tom hanks movies,O B_person I_person O,movie.starring.actor
+tom hanks movies,B_person I_person O,movie.starring.actor
+watch tom hanks,O B_cast I_cast,movie.starring.actor
+what other movies did tom hanks star in,O O O O B_cast I_cast O O,movie.starring.actor
+find movies produced by morgan freeman,O O O O B_producer I_producer,movie.produced_by
+producer tom hanks movies,O B_producer I_producer O,movie.produced_by
+what did tom hanks produces,O O B_producer I_producer O,movie.produced_by
+find movies directed by oliver stone,O O O O B_director I_director,movie.directed_by
+find oliver stone directed movies,O B_director I_director O O,movie.directed_by
+i need movies directed by oliver stone,O O O O O B_director I_director,movie.directed_by
+please provide movies directed by oliver stone,O O O O O B_director I_director,movie.directed_by
+show movies directed by oliver stone,O O O O B_director I_director,movie.directed_by
+name all of the movies john singleton has directed,O O O O O B_director I_director O O,movie.directed_by
+what are all of the movies that john singleton has directed,O O O O O O O B_director I_director O O,movie.directed_by
+show me movies in greek,O O O O B_language,movie.language
+are there any movies in greek,O O O O O B_language,movie.language
+can i see all movies starring alan rickman,O O O O O O B_cast I_cast,movie.starring.actor
+show me movies with alan rickman,O O O O B_cast I_cast,movie.starring.actor
+show movies charlie sheen,O O B_person I_person,movie.starring.actor
+funny pg thirteen movies,B_genre B_mpaa_rating I_mpaa_rating O,movie.rating movie.genre
+find movies produced by albert ruddy,O O O O B_producer I_producer,movie.produced_by
+please look up movies produced by albert ruddy,O O O O O O B_producer I_producer,movie.produced_by
+list all movies produced by alfred ruddy,O O O O O B_producer I_producer,movie.produced_by
+search for movies produced by albert ruddy,O O O O O B_producer I_producer,movie.produced_by
+what movies has albert ruddy produced,O O O B_producer I_producer O,movie.produced_by
+what movies have albert ruddy produced,O O O B_producer I_producer O,movie.produced_by
+which movie was produced by albert rudy,O O O O O B_producer I_producer,movie.produced_by
+which all movies are produced by yash chopra,O O O O O O B_producer I_producer,movie.produced_by
+the camp out,B_movie I_movie I_movie,
+get all brad pitt produced movies,O O B_producer I_producer O O,movie.produced_by
+what movies have brad pitt produced,O O O B_producer I_producer O,movie.produced_by
+what movies were produced by brad pitt,O O O O O B_producer I_producer,movie.produced_by
+find movies starring halle berry,O O O B_cast I_cast,movie.starring.actor
+look for films with halle berry,O O O O B_cast I_cast,movie.starring.actor
+search movies in which halle berry acted,O O O O B_cast I_cast O,movie.starring.actor
+films by mel gibson,O O B_director I_director,movie.directed_by
+search movies made by mel gibson,O O O O B_director I_director,movie.directed_by
+movies by mel gibson,O O B_director I_director,movie.directed_by
+show me a list of movies directed by mel gibson,O O O O O O O O B_director I_director,movie.directed_by
+is this movie a romance,O O O O B_genre,movie.genre
+home this movie is in english,O O O O O B_language,movie.language
+hope this movie is in english,O O O O O B_language,movie.language
+i hope this movie would be in english,O O O O O O O B_language,movie.language
+need to provide more info about the movie content,O O O O O O O O O,movie.subjects
+is the other guys a comedy,O B_movie I_movie I_movie O B_genre,movie.genre
+what movies have robert deniro produced,O O O B_producer I_producer O,movie.produced_by
+find me a list of movies directed by james cameron,O O O O O O O O B_director I_director,movie.directed_by
+find movies directed by james cameron,O O O O B_director I_director,movie.directed_by
+i want to find movies by director james cameron,O O O O O O O B_director I_director,movie.directed_by
+list all of the movies directed by james cameron,O O O O O O O B_director I_director,movie.directed_by
+list movies directed by james cameron,O O O O B_director I_director,movie.directed_by
+watch james cameron movies,O B_director I_director O,movie.directed_by
+can you show me a list of all the movies directed by james cameron,O O O O O O O O O O O O B_director I_director,movie.directed_by
+show me a list of all the movies directed by james cameron,O O O O O O O O O O B_director I_director,movie.directed_by
+show me other movies produced by james cameron,O O O O O O B_producer I_producer,movie.produced_by
+show me the movies that james cameron has produced,O O O O O B_producer I_producer O O,movie.produced_by
+find me some warner bros. movies,O O O B_producer I_producer O,movie.production_companies
+i want to see movies produced by warner bros,O O O O O O O B_producer I_producer,movie.production_companies
+show me a list of all warner bros. films,O O O O O O B_producer I_producer O,movie.production_companies
+show me all films produced by warner bros.,O O O O O O B_producer I_producer,movie.production_companies
+show me the movies produced by warner bros,O O O O O O B_producer I_producer,movie.production_companies
+what are the films that warner bros. produced,O O O O O B_producer I_producer O,movie.production_companies
+i need to see some movies from warner brothers,O O O O O O O B_producer I_producer,movie.production_companies
+search for warner brothers movies,O O B_producer I_producer O,movie.production_companies
+i would love to see some movies produced by the wb,O O O O O O O O O O B_producer,movie.production_companies
+what movies has jj abrams procuced,O O O B_producer I_producer O,movie.produced_by
+show recent films starring bruce willis,O B_release_year O O B_cast I_cast,movie.starring.actor movie.initial_release_date
+list recent films with actor bruce willis,O O O O O B_cast I_cast,movie.starring.actor movie.initial_release_date
+find john cusack movies,O B_person I_person O,movie.starring.actor
+get john cusack movies for me,O B_person I_person O O O,movie.starring.actor
+look for john cusack movies,O O B_person I_person O,movie.starring.actor
+look for wes anderson films,O O B_person I_person O,movie.directed_by
+i would like to know the names of all the movies which have george clooney in them,O O O O O O O O O O O O O B_cast I_cast O O,movie.starring.actor
+which are some of the movies that have george clooney in them,O O O O O O O O B_cast I_cast O O,movie.starring.actor
+show me some films produced by jon landau,O O O O O O B_producer I_producer,movie.produced_by
+about finding nemo,O B_movie I_movie,
+about finding nemo,O B_movie I_movie,
+about finding nemo,O B_movie I_movie,
+all about finding nemo,O O B_movie I_movie,
+detail finding nemo,O B_movie I_movie,
+find me more about finding nemo,O O O O B_movie I_movie,
+finding nemo,B_movie I_movie,
+finding nemo,B_movie I_movie,
+finding nemo details please,B_movie I_movie O O,
+finding nemo info,B_movie I_movie O,
+how can i get more information on finding nemo,O O O O O O O B_movie I_movie,
+i need general information on finding nemo,O O O O O B_movie I_movie,
+information on finding nemo,O O B_movie I_movie,
+information on finding nemo,O O B_movie I_movie,
+look up finding nemo,O O B_movie I_movie,
+open page for finding nemo,O O O B_movie I_movie,
+please find me some info on finding nemo,O O O O O O B_movie I_movie,
+run a search for finding nemo for me please,O O O O B_movie I_movie O O O,
+show details of the original finding nemo,O O O O O B_movie I_movie,
+show finding nemo,O B_movie I_movie,
+show me finding nemo,O O B_movie I_movie,
+show me the official site for finding nemo,O O O O O O B_movie I_movie,
+synopsis for finding nemo,O O B_movie I_movie,
+synopsis for finding nemo,O O B_movie I_movie,
+where can i find information on finding nemo,O O O O O O B_movie I_movie,
+about the campaign,O B_movie I_movie,
+i would like to get all the information about the the campaign,O O O O O O B_movie O O B_movie B_movie I_movie,
+run a search for the campaign,O O O O B_movie I_movie,
+the campaign,B_movie I_movie,
+what is the campaign about,O O B_movie I_movie O,
+show me apollo thirteen,O O B_movie I_movie,
+frank capra movies,B_director I_director O,movie.directed_by
+find movies produced by castle rock entertainment,O O O O B_producer I_producer I_producer,movie.production_companies
+what movies does jake gyllenhaal star in,O O O B_cast I_cast O O,movie.starring.actor
+get a list of movies with kristen stewart,O O O O O O B_cast I_cast,movie.starring.actor
+kristen stewart top movies,B_cast I_cast O O,movie.starring.actor
+show me all movies kristen stewart has been in,O O O O B_cast I_cast O O O,movie.starring.actor
+what movies have kristen stewart done,O O O B_cast I_cast O,movie.starring.actor
+which movies has kristen stewart been in,O O O B_cast I_cast O O,movie.starring.actor
+list movie info kristen stewart,O O O B_person I_person,movie.starring.actor
+find movie info kristenn stewart,O O O B_person I_person,movie.starring.actor
+movie info kristen stewart,O O B_person I_person,movie.starring.actor
+show lionsgate director movies,O B_producer O O,movie.production_companies
+display movies made by production lionsgate,O O O O O B_producer,movie.production_companies
+i want to see a list of lionsgate movies,O O O O O O O B_producer O,movie.production_companies
+lionsgate films,B_producer O,movie.production_companies
+lionsgate list,B_producer O,movie.production_companies
+lionsgate movies,B_producer O,movie.production_companies
+list lionsgate movies,O B_producer O,movie.production_companies
+search for lionsgate movies,O O B_producer O,movie.production_companies
+what movies has lionsgate done,O O O B_producer O,movie.production_companies
+michelle phifer movie list,B_person I_person O O,movie.starring.actor
+find danish movies,O B_country O,movie.country movie.language
+show me the movies acted by chiranjeevi,O O O O O O B_cast,movie.starring.actor
+what movies has charles vidor directed,O O O B_director I_director O,movie.directed_by
+what other movies die charles vidor direct,O O O O B_director I_director O,movie.directed_by
+show me all movies by charles vidor,O O O O O B_director I_director,movie.directed_by
+i'd like to see foreign films,O O O O O O,movie.country
+search for foreign movies,O O O O,movie.country
+what are some universal pictures films,O O O B_producer O O,movie.production_companies
+show me all the movies made by universal,O O O O O O O B_producer,movie.production_companies
+find historical movies,O B_subject O,movie.genre
+display the films by 7 arts,O O O O B_producer I_producer,movie.production_companies
+show movies done by 7 arts,O O O O B_producer I_producer,movie.production_companies
+can you show me a korean movie,O O O O O B_country O,movie.country movie.language
+find korean movies,O B_country O,movie.country movie.language
+korean movie,B_country O,movie.country movie.language
+show me korean movies,O O B_country O,movie.country movie.language
+i want to watch a korean movie,O O O O O B_country O,movie.country movie.language
+find all rated pg-13 movies with eddie murphy,O O O B_mpaa_rating O O B_cast I_cast,movie.rating movie.starring.actor
+twentieth century fox movies since 1990,B_producer I_producer I_producer O O B_release_year,movie.initial_release_date
+can you show me movies starring denzel washington please,O O O O O O B_cast I_cast O,movie.starring.actor
+i want to see movies starring denzel washington,O O O O O O B_cast I_cast,movie.starring.actor
+please show me movies starring denzel washington,O O O O O B_cast I_cast,movie.starring.actor
+show me movies starring denzel washington,O O O O B_cast I_cast,movie.starring.actor
+all the movies by kareena,O O O O B_person,movie.starring.actor
+find movies of kareena,O O O B_person,movie.starring.actor
+find prison break movies,O B_subject I_subject O,
+find movies produced by spike lee,O O O O B_producer I_producer,movie.produced_by
+has spike lee produced any films,O B_producer I_producer O O O,movie.produced_by
+search for movies produced by spike lee,O O O O O B_producer I_producer,movie.produced_by
+give me a list of woody allen films,O O O O O B_director I_director O,movie.directed_by
+show all movies directed by woody allen,O O O O O B_director I_director,movie.directed_by
+woody movies,B_director O,movie.directed_by
+please find all movies woody allen has directed,O O O O B_director I_director O O,movie.directed_by
+what movies were directed by woody allen,O O O O O B_director I_director,movie.directed_by
+which movies does gabrielle union come out in,O O O O O O O O,movie.starring.actor
+give me anything directed by robert wise,O O O O O B_director I_director,movie.directed_by
+list all robert wise movies,O O B_director I_director O,movie.directed_by
+show me a list of movies directed by robert wise,O O O O O O O O B_director I_director,movie.directed_by
+what are all of the movies directed by robert wise,O O O O O O O O B_director I_director,movie.directed_by
+list all of the movies that have been directed by robert wise,O O O O O O O O O O B_director I_director,movie.directed_by
+what are all movies produced by chris nolan,O O O O O O B_producer I_producer,movie.produced_by
+show me movies in german,O O O O B_language,movie.language
+display movies in german,O O O B_language,movie.language
+do you have in movies in german,O O O O O O B_language,movie.language
+i only want to see movies in german,O O O O O O O B_language,movie.language
+watch movies in german language,O O O B_language I_language,movie.language
+find films in german,O O O B_language,movie.language
+get german language films,O B_language I_language O,movie.language
+show movies in german,O O O B_language,movie.language
+show back to the future movies,O B_movie I_movie I_movie I_movie O,
+show me back to the future movies,O O B_movie I_movie I_movie I_movie O,
+movie results for back to the future,O O O B_movie I_movie I_movie I_movie,
+show me a list of movies that christian bale has starred in during his career,O O O O O O O B_cast I_cast O O O O O O,movie.starring.actor
+what are all of the movies acted in by the actor christian bale,O O O O O O O O O O O B_cast I_cast,movie.starring.actor
+what are all the movies played in by chrisian bale,O O O O O O O O B_cast I_cast,movie.starring.actor
+what movies has christian bale acted in,O O O B_cast I_cast O O,movie.starring.actor
+what movies has christian bale appeared in,O O O B_cast I_cast O O,movie.starring.actor
+what movies have christian bale played in,O O O B_cast I_cast O O,movie.starring.actor
+what movies and upcoming movies will christian bale star in,O O O O O O B_cast I_cast O O,movie.starring.actor
+find me movies by jj abrams,O O O O B_person I_person,movie.directed_by
+brad pitt movie now,B_person I_person O O,movie.starring.actor
+brad pitt movies,B_person I_person O,movie.starring.actor
+can you please list all movies with brad pitt,O O O O O O O B_cast I_cast,movie.starring.actor
+can you please list all movies with brad pitt,O O O O O O O B_cast I_cast,movie.starring.actor
+can you please list the movies brad pitt has acted in,O O O O O O B_cast I_cast O O O,movie.starring.actor
+can you show me a movie with brad pitt,O O O O O O O B_cast I_cast,movie.starring.actor
+i want to watch movies with brad pitt,O O O O O O B_cast I_cast,movie.starring.actor
+list all brad pitt movies,O O B_person I_person O,movie.starring.actor
+list brad pitt movies,O B_person I_person O,movie.starring.actor
+look for movies with brad pitt in them,O O O O B_cast I_cast O O,movie.starring.actor
+movie with brad pitt,O O B_cast I_cast,movie.starring.actor
+show all brad pitt movies,O O B_person I_person O,movie.starring.actor
+show brad pitt movies,O B_person I_person O,movie.starring.actor
+show me brad pitt movies,O O B_person I_person O,movie.starring.actor
+show movies with brad pitt,O O O B_cast I_cast,movie.starring.actor
+what movie brad pitt in,O O B_cast I_cast O,movie.starring.actor
+what movies have brad pitt,O O O B_cast I_cast,movie.starring.actor
+sort by all brad pitt movies,O O O B_person I_person O,movie.starring.actor movie.directed_by
+what movies did tom hanks direct that he also starred in,O O O B_director I_director O O O O O O,movie.starring.actor movie.directed_by
+show me a list of all movies directed by tom hanks starting with newest to oldest,O O O O O O O O O B_director I_director O O O O O,movie.directed_by movie.initial_release_date
+movies from scotland,O O B_country,movie.country
+give me a list of r rated movies,O O O O O B_mpaa_rating O O,movie.rating
+i want to look for movies with an r rating,O O O O O O O O B_mpaa_rating O,movie.rating
+i want to see all movies with a r rating,O O O O O O O O B_mpaa_rating O,movie.rating
+please look up r rated movies,O O O B_mpaa_rating O O,movie.rating
+rate r movies for adult enterainment,O B_mpaa_rating O O O O,movie.rating
+show me all r -rated movies,O O O B_mpaa_rating O O,movie.rating
+show me movies that are rated r,O O O O O O B_mpaa_rating,movie.rating
+find movies with r ratings,O O O B_mpaa_rating O,movie.rating
+find rated r movies,O O B_mpaa_rating O,movie.rating
+i want to find movies rated r,O O O O O O B_mpaa_rating,movie.rating
+i want to view movies that are rated r,O O O O O O O O B_mpaa_rating,movie.rating
+look up r rated movies,O O B_mpaa_rating O O,movie.rating
+movies with r rating,O O B_mpaa_rating O,movie.rating
+r - rated,B_mpaa_rating O O,movie.rating
+r rated movies,B_mpaa_rating O O,movie.rating
+show me movies with a rating of r,O O O O O O O B_mpaa_rating,movie.rating
+what are a list of movies with an r rating,O O O O O O O O B_mpaa_rating O,movie.rating
+are there any movies that are rated r,O O O O O O O B_mpaa_rating,movie.rating
+compile a list of movies with a r rating,O O O O O O O B_mpaa_rating O,movie.rating
+i want an r rated movie,O O O B_mpaa_rating O O,movie.rating
+list all rated r movies,O O O B_mpaa_rating O,movie.rating
+r rated movies,B_mpaa_rating O O,movie.rating
+search for r rated movies,O O B_mpaa_rating O O,movie.rating
+show me a list of movies with r rating,O O O O O O O B_mpaa_rating O,movie.rating
+show me all rated r movies,O O O O B_mpaa_rating O,movie.rating
+show me r movies,O O B_mpaa_rating O,movie.rating
+show me r rated movies,O O B_mpaa_rating O O,movie.rating
+show only rated r movies,O O O B_mpaa_rating O,movie.rating
+what are movies that have a r rating,O O O O O O B_mpaa_rating O,movie.rating
+which movies are rated r,O O O O B_mpaa_rating,movie.rating
+what other videos does the country norway have,O O O O O O B_country O,movie.country
+a showing of movies that are in spanish,O O O O O O O B_language,movie.language
+can you find movies in spanish,O O O O O B_language,movie.language
+search for movies in spanish,O O O O B_language,movie.language
+spanish language movies,B_language I_language O,movie.language
+i am looking for movies in spanish,O O O O O O B_language,movie.language
+i would like to watch movies that are spoken in spanish,O O O O O O O O O O B_language,movie.language
+list of movies in spanish,O O O O B_language,movie.language
+show me movies in spanish,O O O O B_language,movie.language
+can you show me a list of movies in spanish,O O O O O O O O O B_language,movie.language
+find movies in spanish,O O O B_language,movie.language
+find movies in spanish,O O O B_language,movie.language
+give me movies in spanish,O O O O B_language,movie.language
+i would like a list of movies that have been made in spanish,O O O O O O O O O O O O B_language,movie.language
+movies in spanish,O O B_language,movie.language
+please make a list of movies that have been made in spanish,O O O O O O O O O O O B_language,movie.language
+send me movies that are in spanish,O O O O O O B_language,movie.language
+show me movies in spanish,O O O O B_language,movie.language
+show me movies that are in spanish,O O O O O O B_language,movie.language
+give me swedish films,O O B_country O,movie.country movie.language
+show me mexican films,O O B_country O,movie.country
+show me movies made in south africa,O O O O O B_country I_country,movie.country
+list some sci fi movies,O O B_genre I_genre O,movie.genre
+show me scifi fantasy movies,O O B_genre I_genre O,movie.genre
+find scifi films,O B_genre O,movie.genre
+list scifi,O B_genre,movie.genre
+what movies did matt damon appear in,O O O B_cast I_cast O O,movie.starring.actor
+sound of music robert wise,B_movie I_movie I_movie B_director I_director,movie.directed_by
+can i watch a terry george film tonight,O O O O B_director I_director O O,movie.directed_by
+get a list of animated films,O O O O B_genre O,movie.genre
+show me movies that are about scary zombies,O O O O O O B_subject I_subject,movie.subjects
+is there a movie about the zombie apocolypse,O O O O O O B_subject I_subject,movie.subjects
+i want to see a list about zombie horror films,O O O O O O O B_subject B_genre O,movie.genre movie.subjects
+find some zombie movies,O O B_subject O,movie.subjects
+find zombie movies,O B_subject O,movie.subjects
+get list of zombie movies,O O O B_subject O,movie.subjects
+give me a list of zombie movies,O O O O O B_subject O,movie.subjects
+i want to find zombie movies,O O O O B_subject O,movie.subjects
+i want to see zombie movies,O O O O B_subject O,movie.subjects
+see zombie movies,O B_subject O,movie.subjects
+show me zombie movies,O O B_subject O,movie.subjects
+show me zombie movies,O O B_subject O,movie.subjects
+show zombie movies,O B_subject O,movie.subjects
+zombie movie favorites,B_subject O O,movie.subjects
+find me a movie with zombies,O O O O O B_subject,movie.subjects
+show me movies about zombies,O O O O B_subject,movie.subjects
+show me movies about zombies,O O O O B_subject,movie.subjects
+show me movies about zombies,O O O O B_subject,movie.subjects
+show movies of zombies,O O O B_subject,movie.subjects
+which movies are based on zombies,O O O O O B_subject,movie.subjects
+which movies have zombies in them,O O O B_subject O O,movie.subjects
+movies about zombies,O O B_subject,movie.subjects
+display movies of zombies,O O O B_subject,movie.subjects
+get movies about zombies,O O O B_subject,movie.subjects
+movies about zombies,O O B_subject,movie.subjects
+i want scary zombie movies,O O B_genre B_subject O,movie.genre movie.subjects
+i want to see zombie movies that are scary,O O O O B_subject O O O B_genre,movie.genre movie.subjects
+find movies directed by niel abramson,O O O O B_director I_director,movie.directed_by
+zombies,B_subject,movie.subjects
+what movies are directed by ridley scott,O O O O O B_director I_director,movie.directed_by
+i want to see movies directed by ridley scott,O O O O O O O B_director I_director,movie.directed_by
+german movie info,B_country O O,movie.country movie.language
+i want to watch a german movie,O O O O O B_country O,movie.country movie.language
+info german movie,O B_country O,movie.country movie.language
+show german movies,O B_country O,movie.country movie.language
+find action movies,O B_genre O,movie.genre
+looking for an action movie,O O O B_genre O,movie.genre
+what is the ratings of action movies,O O O O O B_genre O,movie.rating movie.genre
+movies patrick swayze played in,O B_person I_person O O,movie.starring.actor
+show me a movie that starred patrick swayze,O O O O O O B_cast I_cast,movie.starring.actor
+show me short films,O O B_genre O,movie.genre
+movies by george lucas,O O B_director I_director,movie.directed_by
+list of all dutch movies,O O O B_country O,movie.country movie.language
+please give me a dutch movie listing,O O O O B_country O O,movie.country movie.language
+dutch movie listing,B_country O O,movie.country movie.language
+show me childrens movies,O O B_mpaa_rating O,movie.genre
+movies tom cruise produced,O B_producer I_producer O,movie.produced_by
+what movies did harry weinstein produce,O O O B_producer I_producer O,movie.produced_by
+i want to look for movies produced by morgan freeman,O O O O O O O O B_producer I_producer,movie.produced_by
+i would like to find movies produced by morgan freeman,O O O O O O O O B_producer I_producer,movie.produced_by
+look for movies produced by morgan freeman,O O O O O B_producer I_producer,movie.produced_by
+search for movies produced by morgan freeman,O O O O O B_producer I_producer,movie.produced_by
+what movies are in bengali,O O O O B_language,movie.language
+meryl streep movies,B_person I_person O,movie.starring.actor
+movies frances ford copolla,O B_person I_person I_person,movie.directed_by
+what movie did victor fleming direct,O O O B_director I_director O,movie.directed_by
+movies from russia,O O B_country,movie.country
+search for films produced in russia,O O O O O B_country,movie.country
+find movies produced in russia,O O O O B_country,movie.country
+find all details about star wars-a new hope movie,O O O O B_movie I_movie I_movie I_movie O,
+show all details about star wars-a new hope movie,O O O O B_movie I_movie I_movie I_movie O,
+get me information about the movie star wars four,O O O O O O B_movie I_movie I_movie,
+can you show me details about the movie star wars:episode four - a new hope,O O O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,
+give me detailed information about the movie star wars:episode four -a new hope,O O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie,
+i would like to get some information about the movie star wars:episode four -a new hope,O O O O O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie,
+list star wars movie a new hope,O B_movie I_movie I_movie I_movie I_movie I_movie,
+find info about star wars episode four,O O O B_movie I_movie I_movie I_movie,
+get me info on star wars episode four,O O O O B_movie I_movie I_movie I_movie,
+get me star wars episode four details,O O B_movie I_movie I_movie I_movie O,
+i want to see info about star wars four,O O O O O O B_movie I_movie I_movie,
+run a search for star wars four,O I_movie O O B_movie I_movie I_movie,
+show me star wars four,O O B_movie I_movie I_movie,
+show me star wars four page,O O B_movie I_movie I_movie O,
+star wars four,B_movie I_movie I_movie,
+take me to star wars four page,O O O B_movie I_movie I_movie O,
+where can i watch star wars four,O O O O B_movie I_movie I_movie,
+tell about star wars iv,O O B_movie I_movie I_movie,
+what is full name of star wars iv,O O O O O B_movie I_movie I_movie,
+darth vader,B_char I_char,movie.starring.character
+han solo,B_char I_char,movie.starring.character
+i only want movies by sidney lumit,O O O O O B_director I_director,movie.directed_by
+movies with sally field,O O B_cast I_cast,movie.starring.actor
+can you please open page about in july movie,O O O O O O B_movie I_movie O,
+display details of in july movie,O O O B_movie I_movie O,
+exhibit details of in july movie,O O O B_movie I_movie O,
+in july movie page,B_movie I_movie O O,
+about movie in july,O O B_movie I_movie,
+find me the film in july,O O O O B_movie I_movie,
+show information for the movie title in july with moritz bleibtreu,O O O O O O B_movie I_movie O B_cast I_cast,movie.starring.actor
+give me details about the movie in july,O O O O O O B_movie I_movie,
+i want information about the movie in july,O O O O O O B_movie I_movie,
+i would like to get detailed information about the movie in july,O O O O O O O O O O B_movie I_movie,
+search the movie in july,O O O B_movie I_movie,
+show data for the movie in july,O O O O O B_movie I_movie,
+show me detailed information about the movie in july,O O O O O O O B_movie I_movie,
+show me more details for the movie in july,O O O O O O O B_movie I_movie,
+check movie in july information,O O B_movie I_movie O,
+display information for the movie in july,O O O O O B_movie I_movie,
+what movies has jack black been in,O O O B_cast I_cast O O,movie.starring.actor
+angelina jolie movies,B_person I_person O,movie.starring.actor
+in which movies has angelina jolie starred,O O O O B_cast I_cast O,movie.starring.actor
+list of movies starring angelina jolie,O O O O B_cast I_cast,movie.starring.actor
+movies with angelina jolie,O O B_cast I_cast,movie.starring.actor
+show angelina jolie movies,O B_person I_person O,movie.starring.actor
+show me all movies for angelina jolie,O O O O O B_person I_person,movie.starring.actor
+show movies with angelina jolie,O O O B_cast I_cast,movie.starring.actor
+what movies has angelina jolie been in,O O O O B_cast I_cast O,movie.starring.actor
+which movies has angelina jolie been in,O O O O B_cast I_cast O,movie.starring.actor
+list movies starring angelina jolie,O O O B_cast I_cast,movie.starring.actor
+list movies with angelina jolie in them,O O O B_cast I_cast O O,movie.starring.actor
+funny kids movies,B_genre B_mpaa_rating O,movie.rating movie.genre
+movies about basketball,O O B_subject,movie.subjects
+can you locate movies produced by clint eastwood,O O O O O O B_producer I_producer,movie.produced_by
+can you show movies produced by clint eastwood,O O O O O O B_producer I_producer,movie.produced_by
+find all movies produced by clint eastwood,O O O O O B_producer I_producer,movie.produced_by
+i am looking for movies produced by clint eastwood,O O O O O O O B_producer I_producer,movie.produced_by
+i need a list of movies produced by clint eastwood,O O O O O O O O B_producer I_producer,movie.produced_by
+please find movies produced by clint eastwood,O O O O O B_producer I_producer,movie.produced_by
+will you provide a list of movies produced by clint eastwood,O O O O O O O O O B_producer I_producer,movie.produced_by
+i want to see more movies with katie holmes,O O O O O O O B_cast I_cast,movie.starring.actor
+find any movies about horses,O O O O B_subject,movie.subjects
+what are some current movies with horses as the main topic of the movie,O O O O O O B_subject O O O O O O O,movie.subjects
+johnny depp movies,B_person I_person O,movie.starring.actor
+bring up black swan production,O O B_movie I_movie O,
+all the movies of karan johar,O O O O B_director I_director,movie.directed_by
+find movies of karan johar,O O O B_director I_director,movie.directed_by
+movies of karan johar,O O B_director I_director,movie.directed_by
+find director movies,O O O,movie.directed_by
+find a list of directors and their movies,O O O O O O O O,movie.directed_by
+movies and who directed them,O O O O O,movie.directed_by
+bring up all director movies,O O O O O,movie.directed_by
+list director movies,O O O,movie.directed_by
+show movies directed by,O O O O,movie.directed_by
+i want to look up information about the movie hotel transylvania,O O O O O O O O O B_movie I_movie,
+will ferrell been in,B_cast I_cast O O,movie.starring.actor
+what has will ferrell done,O O B_person I_person O,movie.starring.actor
+find movies about gambling,O O O B_subject,movie.subjects
+find movies about ice skating,O O O B_subject I_subject,movie.subjects
+generate a list of movies about ice skating,O O O O O O B_subject I_subject,movie.subjects
+list ice skating movies please,O B_subject I_subject O O,movie.subjects
+are there any movies with ice skating,O O O O O B_subject I_subject,movie.subjects
+please show me movies about ice skating,O O O O O B_subject I_subject,movie.subjects
+search for movies about ice skating,O O O O B_subject I_subject,movie.subjects
+are there any movies with skating on ice,O O O O O B_subject I_subject I_subject,movie.subjects
+find dreamworks movies for kids,O B_producer O O B_mpaa_rating,movie.rating movie.production_companies
+where can i see a list of movies produced in great britain,O O O O O O O O O O B_country I_country,movie.country
+taye diggs films,B_person I_person O,movie.starring.actor
+about house at the end of the street,O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,
+find me info on house at the end of the street,O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,
+house at the end of the street movie info,B_movie I_movie I_movie I_movie I_movie I_movie I_movie O O,
+i would like to see house at the end of the street information,O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie O,
+overview of house at the end of the street,O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,
+show me house at the end of the street,O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,
+show me the page about house at the end of the street,O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,
+get me info about the movie house at the end of the street,O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,
+show information for the movie house at the end of the street,O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,
+show me detailed information about the movie house at the end of the street,O O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,
+show me more details for the movie house at the end of the street,O O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,
+can you give me detailed information about the movie house at the end of the street,O O O O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,
+dispaly info for movie house at the end of the street,O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,
+display overview of the movie house at the end of the street,O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,
+i need information about the cast reviews story etc in detail about the movie house at the end of the street,O O O O O O O O O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,
+send me movies that are in chinese,O O O O O O B_language,movie.language
+i want chinese language movies,O O B_language I_language O,movie.language
+show me movies in chinese,O O O O B_language,movie.language
+find all chinese language movies,O O B_language I_language O,movie.language
+look up movies in chinese,O O O O B_language,movie.language
+movies in chinese,O O B_language,movie.language
+show me movies produced by julian fellows,O O O O O B_producer I_producer,movie.produced_by
+julian fellows productions,B_producer I_producer O,movie.produced_by
+can you please search movies of tom cruise,O O O O O O B_person I_person,movie.starring.actor
+find movies with tom cruise,O O O B_cast I_cast,movie.starring.actor
+find movies with tom cruise in them,O O O B_cast I_cast O O,movie.starring.actor
+in what movies tom cruise is,O O O B_cast I_cast O,movie.starring.actor
+movies starring tom cruise,O O B_cast I_cast,movie.starring.actor
+show me all movies tom cruise has been in,O O O O B_cast I_cast O O O,movie.starring.actor
+tom cruise movies,B_person I_person O,movie.starring.actor
+tom cruise movies,B_person I_person O,movie.starring.actor
+what movies has tom cruise been in,O O O B_cast I_cast O O,movie.starring.actor
+what movies has tom cruise starred in,O O O B_cast I_cast O O,movie.starring.actor
+find movies produced by george lucas,O O O O B_producer I_producer,movie.produced_by
+find movies produced by george lucus,O O O O B_producer I_producer,movie.produced_by
+give me a list of movies produced by george lucas,O O O O O O O O B_producer I_producer,movie.produced_by
+give me a list of movies that george lucas produced,O O O O O O O B_producer I_producer O,movie.produced_by
+locate all movies produced by george lucas,O O O O O B_producer I_producer,movie.produced_by
+list of dax shepard movies,O O B_person I_person O,movie.starring.actor
+find movies of yash chopra,O O O B_director I_director,movie.directed_by
+trouble with the curve was based on what,B_movie I_movie I_movie I_movie O O O O,
+what was the last film robert redford produced,O O O O O B_producer I_producer O,movie.initial_release_date movie.produced_by
+movies about immigration,O O B_subject,movie.subjects
+dawn of the dead movie information,B_movie I_movie I_movie I_movie O O,
+search the campaign movie,O B_movie I_movie O,
+show me information related to the film the campaign,O O O O O O O B_movie I_movie,
+will you please show me info on the movie the campaign,O O O O O O O O O B_movie I_movie,
+the campaign movie page,B_movie I_movie O O,
+i want to see info on the movie the campaign,O O O O O O O O B_movie I_movie,
+look up movie the campaign,O O O B_movie I_movie,
+please show me info on the movie the campaign,O O O O O O O B_movie I_movie,
+show me information for the movie the campaign,O O O O O O B_movie I_movie,
+tell me about the movie the campaign in detail,O O O O O B_movie I_movie O O,
+can you show me details about the movie the campaign,O O O O O O O O B_movie I_movie,
+find movies about love,O O O B_subject,movie.subjects
+movies about nature,O O B_subject,movie.subjects
+show me the comedy pitch perfect,O O O B_genre B_movie I_movie,movie.genre
+show me the movies produced by reliance,O O O O O O B_producer,movie.production_companies
+which movies are family friendly,O O O B_genre I_genre,movie.rating
+can you get me a pg movie list,O O O O O B_mpaa_rating O O,movie.rating
+find a pg rated movie,O O B_mpaa_rating O O,movie.rating
+find rated pg movies,O O B_mpaa_rating O,movie.rating
+give me some good pg moives,O O O O B_mpaa_rating O,movie.rating
+i am looking for movies that are rated pg for family movie night,O O O O O O O O B_mpaa_rating O O O O,movie.rating
+i need to see a list of pg movies,O O O O O O O B_mpaa_rating O,movie.rating
+i need to see all pg movies,O O O O O B_mpaa_rating O,movie.rating
+movies rated pg,O O B_mpaa_rating,movie.rating
+pg movies list please,B_mpaa_rating O O O,movie.rating
+please show a list of recent movies rated pg,O O O O O O O O B_mpaa_rating,movie.rating
+show me movies rated pg,O O O O B_mpaa_rating,movie.rating
+bring up all pg movies,O O O B_mpaa_rating O,movie.rating
+find me pg movies,O O B_mpaa_rating O,movie.rating
+find movies rated pg,O O O B_mpaa_rating,movie.rating
+find movies that are pg,O O O O B_mpaa_rating,movie.rating
+i need movies with a pg rating,O O O O O B_mpaa_rating O,movie.rating
+i want to search for pg rated movies,O O O O O B_mpaa_rating O O,movie.rating
+list movies rated pg,O O O B_mpaa_rating,movie.rating
+movies with pg rating,O O B_mpaa_rating O,movie.rating
+movies with pg rating,O O B_mpaa_rating O,movie.rating
+pg movies,B_mpaa_rating O,movie.rating
+show me pg rated movies,O O B_mpaa_rating O O,movie.rating
+show me the movies rating pg,O O O O O B_mpaa_rating,movie.rating
+find movies with pg ratings only,O O O B_mpaa_rating O O,movie.rating
+i want a list of pg rated movies,O O O O O B_mpaa_rating O O,movie.rating
+i want to see movies that are rated pg,O O O O O O O O B_mpaa_rating,movie.rating
+only show movies rated pg,O O O O B_mpaa_rating,movie.rating
+please find pg rated movies,O O B_mpaa_rating O O,movie.rating
+search for movies with a pg rating,O O O O O B_mpaa_rating O,movie.rating
+search for movies with a pg rating,O O O O O B_mpaa_rating O,movie.rating
+show me all pg movies,O O O B_mpaa_rating O,movie.rating
+show me movies with pg rating,O O O O B_mpaa_rating O,movie.rating
+show me movies with pg ratings,O O O O B_mpaa_rating O,movie.rating
+show me pg movies,O O B_mpaa_rating O,movie.rating
+get hungarian films,O B_country O,movie.country movie.language
+i want to watch a comedy made in hungary,O O O O O B_genre O O B_country,movie.country movie.genre
+show me hungarian comedies,O O B_country B_genre,movie.country movie.language movie.genre
+what's the latest on brad pitt,O O O O B_person I_person,movie.starring.actor movie.initial_release_date
+i'm looking for a jason cortlund movie,O O O O B_director I_director O,movie.directed_by
+show me the movie now forager,O O O O B_movie I_movie,
+what old movies are made by warner brothers,O O O O O O B_producer I_producer,movie.production_companies movie.initial_release_date
+i want to look up alfred hitchcock movies,O O O O O B_director I_director O,movie.directed_by
+find me movies made by alfred hitchcock,O O O O O B_director I_director,movie.directed_by
+i want to search for alfred hitchcock movies,O O O O O B_director I_director O,movie.directed_by
+i would like to watch an alfred hitchcock movie,O O O O O O B_director I_director O,movie.directed_by
+show me some alfred hitchcock movies,O O O B_director I_director O,movie.directed_by
+look up alfred hitchcock movies,O O B_director I_director O,movie.directed_by
+movies alfred hitchcock,O B_director I_director,movie.directed_by
+movies by alfred hitchcock,O O B_director I_director,movie.directed_by
+movies by alfred hitchcock,O O B_director I_director,movie.directed_by
+what movies has alfred hitchcock directed,O O O B_director I_director O,movie.directed_by
+hitchcock movie list,B_director O O,movie.directed_by
+list hitchcock movies,O B_director O,movie.directed_by
+movie list hitchcock,O O B_director,movie.directed_by
+show me hitchcock movies,O O B_director O,movie.directed_by
+hitchcock movie info,B_director O O,movie.directed_by
+hitchcock movies,B_director O,movie.directed_by
+what movies did hitchcock direct,O O O B_director O,movie.directed_by
+show me the last five films for lionsgate,O O O O O O O B_producer,movie.production_companies movie.initial_release_date
+show me recent movies from lionsgate,O O O O O B_producer,movie.production_companies movie.initial_release_date
+what new movies does lionsgate have out,O O O O B_producer O O,movie.production_companies movie.initial_release_date
+show me the movie vulgaria,O O O O B_movie,
+what recently released movies are rated r,O O O O O O B_mpaa_rating,movie.rating movie.initial_release_date
+get me a list of current r-rated movies,O O O O O O B_mpaa_rating O,movie.rating movie.initial_release_date
+show a list of recent releases that are rated pg,O O O O O O O O O B_mpaa_rating,movie.rating movie.initial_release_date
+what are some recent released pg movies,O O O O O B_mpaa_rating O,movie.rating movie.initial_release_date
+show recent movies rated pg,O O O O B_mpaa_rating,movie.rating movie.initial_release_date
+will you show me a list of recent movies rated pg,O O O O O O O O O O B_mpaa_rating,movie.rating movie.initial_release_date
+which current movies are rated pg,O O O O O B_mpaa_rating,movie.rating movie.initial_release_date
+do you have anything by george cukor,O O O O O B_director I_director,movie.directed_by
+what was the first movie steven spielberg directed,O O O O O B_director I_director O,movie.directed_by movie.initial_release_date
+did rob reiner direct any movies,O B_director I_director O O O,movie.directed_by
+what was the highest making movie,O O O O O O,movie.gross_revenue gr.amount
+show me high grossing movies,O O O O O,movie.gross_revenue gr.amount
+what movies made the most money,O O O O O O,movie.gross_revenue gr.amount
+what are the top grossing movies,O O O O O O,movie.gross_revenue gr.amount
+find the new will ferrell movie,O O O B_person I_person O,movie.starring.actor movie.initial_release_date
+what are the three latest films with will ferrell,O O O O O O O B_cast I_cast,movie.starring.actor movie.initial_release_date
+what are recent films by will ferrell,O O O O O B_cast I_cast,movie.starring.actor movie.initial_release_date
+any new movies with eddie murphy,O O O O B_cast I_cast,movie.starring.actor movie.initial_release_date
+i would like to look for movies about god,O O O O O O O O B_subject,movie.subjects
+look up movies about god,O O O O B_subject,movie.subjects
+i want to look for movies about god,O O O O O O O B_subject,movie.subjects
+please search for movies about god,O O O O O B_subject,movie.subjects
+find ron howard new movie,O B_director I_director O O,movie.directed_by movie.initial_release_date
+i need a list of movies produced by ray stark,O O O O O O O O B_producer I_producer,movie.produced_by
+show me all movies produced by ray stark,O O O O O O B_producer I_producer,movie.produced_by
+what movies has ray stark produced,O O O B_producer I_producer O,movie.produced_by
+what movie has albert brooks done lately,O O O B_person I_person O O,movie.starring.actor movie.initial_release_date
+recent movies by steven spielberg,O O O B_director I_director,movie.directed_by movie.initial_release_date
+i am looking for movies directed by tom hanks,O O O O O O O B_director I_director,movie.directed_by
+find movies directed by tom hanks,O O O O B_director I_director,movie.directed_by
+show me movies that tom hanks directed,O O O O B_director I_director O,movie.directed_by
+movies by tom hanks,O O B_director I_director,movie.directed_by
+show me a list of all movies that were directed by tom hanks,O O O O O O O O O O O B_director I_director,movie.directed_by
+what movie made the least money,O O O O O O,movie.gross_revenue gr.amount
+what has tom cruise acted in lately,O O B_person I_person O O O,movie.starring.actor movie.initial_release_date
+what new movies are playing with rating of pg thirteen,O O O O O O O O B_mpaa_rating I_mpaa_rating,movie.rating movie.initial_release_date
+show me a list of movies that are new and rated pg-13,O O O O O O O O O O O B_mpaa_rating,movie.rating movie.initial_release_date
+what pg-13 movies are currently showing,O B_mpaa_rating O O O O,movie.rating movie.initial_release_date
+what other movies has will smith directed,O O O O B_director I_director O,movie.directed_by
+show me the latest movies in kannada,O O O O O O B_language,movie.language
+have any new movies by twentieth century fox,O O O O O B_producer I_producer I_producer,movie.production_companies movie.initial_release_date
+current movie suggestions,O O O,movie.initial_release_date
+show me new releases,O O O O,movie.initial_release_date
+see ed harris last movie,O B_person I_person O O,movie.starring.actor movie.initial_release_date
+give me a list of recent horror films,O O O O O B_release_year B_genre O,movie.genre movie.initial_release_date
+show me movies in swedish,O O O O B_language,movie.language
+about in july,O B_movie I_movie,
+i want to go to the homepage for in july,O O O O O O O O B_movie I_movie,
+i want to view the page on in july,O O O O O O O B_movie I_movie,
+i would like to see the main page of in july,O O O O O O O O O B_movie I_movie,
+in july information,B_movie I_movie O,
+summary of in july,O O B_movie I_movie,
+synopsis for in july,O O B_movie I_movie,
+was life is beautiful made in italy,O B_movie I_movie I_movie O O B_country,movie.country
+current movies rated g,O O O B_mpaa_rating,movie.rating movie.initial_release_date
+find all new releases that are rated g,O O O O O O O B_mpaa_rating,movie.rating movie.initial_release_date
+can i have a list of movie production companies,O O O O O O O O O,
+who is bruce willis,O O B_person I_person,
+producer,O,
+i need a movie producer list,O O O O O O,
+can i have a list of producers,O O O O O O O,
+find me info on emma watson,O O O O B_person I_person,
+show me more information about will smith,O O O O O B_person I_person,
+will smith bio,B_person I_person O,
+i need a list of actors,O O O O O O,
+search for actors,O O O,
+find actors,O O,
+search movie actors,O O O,
+movie actors,O O,
+display actors in movies,O O O O,
+show actors in movies,O O O O,
+display biography of actor will ferrell,O O O O B_person I_person,
+who is the actor will ferrell,O O O O B_person I_person,
+director,O,
+find a director,O O O,
+find directors,O O,
+search directors,O O,
+search directors,O O,
+movie directors,O O,
+give me a list of directors,O O O O O O,
+where can i find a director,O O O O O O,
+see bill paxton,O B_person I_person,
+give me information about elizabeth mcgovern,O O O O B_person I_person,
+show me information on darla anderson,O O O O B_person I_person,
+can you give me more information about charles,O O O O O O O B_person,
+can you tell me more about the producer ray stark,O O O O O O O O B_person I_person,
+give me more details about the producer ray stark,O O O O O O O B_person I_person,
+i need to know more about the producer ray stark,O O O O O O O O B_person I_person,
+show me more information about the producer ray stark,O O O O O O O B_person I_person,
+show me information on shelly long,O O O O B_person I_person,
+i want to know about clint eastwood,O O O O O B_person I_person,
+look for information about charles vidor,O O O O B_person I_person,
+search for information about charles vidor,O O O O B_person I_person,
+want to see charles vidor,O O O B_person I_person,
+who is childs vidor,O O B_person I_person,
+find me more information on scorscese,O O O O O B_person,
+find the director andrew stanton,O O O B_person I_person,
+who is andrew stanton,O O B_person I_person,
+see the olsen twins,O O B_person I_person,
+can you find more information on albert ruddy,O O O O O O B_person I_person,
+search for information about tom cruise,O O O O B_person I_person,
+find information about tom cruise,O O O B_person I_person,
+look for information about tom cruise,O O O O B_person I_person,
+look up information about tom cruise,O O O O B_person I_person,
+all about will farrell please,O O B_person I_person O,
+bio on will ferrell,O O B_person I_person,
+biography for will ferrell,O O B_person I_person,
+bring me to will ferrell informaion,O O O B_person I_person O,
+bring up a bio on will ferrell,O O O O O B_person I_person,
+can you show me information on will ferrell please,O O O O O O B_person I_person O,
+display all information on will ferrell,O O O O B_person I_person,
+get me bio info for will ferrell,O O O O O B_person I_person,
+goto will ferrell biography,O B_person I_person O,
+i want information about will ferrell,O O O O B_person I_person,
+i want to see will ferrell details,O O O O B_person I_person O,
+information about will ferrell,O O B_person I_person,
+look for will ferrell,O O B_person I_person,
+open a page about will ferrell,O O O O B_person I_person,
+please show me information on will ferrell,O O O O O B_person I_person,
+search for will ferrell,O O B_person I_person,
+show me a bio of will ferrell,O O O O O B_person I_person,
+show me will ferrell information,O O B_person I_person O,
+show will ferrell information,O B_person I_person O,
+who is will ferrell,O O B_person I_person,
+who is will ferrell,O O B_person I_person,
+who is will ferrell,O O B_person I_person,
+will ferrell,B_person I_person,
+will ferrell history,B_person I_person O,
+will ferrell tidbits,B_person I_person O,
+please run a search on will ferrell and display all info returned,O O O O O B_person I_person O O O O O,
+what is terry georges background,O O B_person I_person O,
+exhibit all relevant information about the director steven spielberg,O O O O O O O B_person I_person,
+show me the bio for the director steven spielberg,O O O O O O O B_person I_person,
+who is director steven spielberg,O O O B_person I_person,
+show all relevant information about the director steven spielberg,O O O O O O O B_person I_person,
+show biography for director steven spielberg,O O O O B_person I_person,
+find information about kristen stewart,O O O B_person I_person,
+how do i find out information about kristen stewart,O O O O O O O B_person I_person,
+learn more about kristen stewart,O O O B_person I_person,
+who is kristen stewart,O O B_person I_person,
+information on julia roberts,O O B_person I_person,
+get me information about spielberg,O O O O B_person,
+i want to know about spielberg,O O O O O B_person,
+pull up spielberg,O O B_person,
+show me the profile of spielberg,O O O O O B_person,
+show my spielberg info,O O B_person O,
+find me stats about steven spielberg,O O O O B_person I_person,
+i need details steven spielberg now,O O O B_person I_person O,
+search for steven spielberg,O O B_person I_person,
+show me the information for steven spielberg,O O O O O B_person I_person,
+stephen spielberg biography,B_person I_person O,
+steven spielberg,B_person I_person,
+steven spielberg bio,B_person I_person O,
+steven spielberg profile page,B_person I_person O O,
+what about steven spielberg,O O B_person I_person,
+who is steven spielberg,O O B_person I_person,
+find info on tom hanks,O O O B_person I_person,
+show me information on tom hanks,O O O O B_person I_person,
+show tom hanks,O B_person I_person,
+information for sally field,O O B_person I_person,
+sergio leone,B_person I_person,
+i need information on sean connery,O O O O B_person I_person,
+tell me about michelle pfiefer,O O O B_person I_person,
+i want to learn about charlie sheen,O O O O O B_person I_person,
+find information about robert wise,O O O B_person I_person,
+robert wise life,B_person I_person O,
+search for information about robert wise,O O O O B_person I_person,
+warner brothers bio,O O O,
+alfred hitchcock,B_person I_person,
+who is hitchcock,O O B_person,
+information for clark gable,O O B_person I_person,
+i want information about angelina jolie,O O O O B_person I_person,
+i want more information on richard lester,O O O O O B_person I_person,
+information for vivian lee,O O B_person I_person,
+name the producer of the godfather,O O O O B_movie I_movie,movie.produced_by
+what is the name of the company that produced sparkle,O O O O O O O O O B_movie,movie.produced_by
+what is the name of the company that produced the movie ants,O O O O O O O O O O O B_movie,movie.production_companies
+show me the name of the producer of the movie avatar,O O O O O O O O O O B_movie,movie.produced_by
+can you show me the name of the producer for cabin in the woods,O O O O O O O O O O I_movie I_movie I_movie I_movie,movie.produced_by
+what is the name of the company that produced the movie avatar,O O O O O O O O O O O B_movie,movie.production_companies
+please provide the name of the company that produced sparkle,O O O O O O O O O B_movie,movie.production_companies
+what is the name of the company that produced the movie inception,O O O O O O O O O O O B_movie,movie.production_companies
+hitch list producer,B_movie O O,movie.produced_by
+i want info on how produced hitch,O O O O O O B_movie,movie.produced_by
+who are the producers for the movie hitch,O O O O O O O B_movie,movie.produced_by
+who is the producer for hitch,O O O O O B_movie,movie.produced_by
+who produced hitch,O O B_movie,movie.produced_by
+who produced hitch,O O B_movie,movie.produced_by
+who produced hitch,O O B_movie,movie.produced_by
+who was the producer for the movie hitch,O O O O O O O B_movie,movie.produced_by
+info hitch producer,O B_movie O,movie.produced_by
+what production company was responsible for the film the devil wears prada,O O O O O O O O B_movie I_movie I_movie I_movie,movie.production_companies
+what company produced secretariat,O O O B_movie,movie.production_companies
+what company produced the movie field of dreams,O O O O O B_movie I_movie I_movie,movie.production_companies
+what company produced jurassic park,O O O B_movie I_movie,movie.production_companies
+company that produced iron man,O O O B_movie I_movie,movie.production_companies
+what company produced cabin in the woods,O O O B_movie I_movie I_movie I_movie,movie.production_companies
+production company for spiderman,O O O B_movie,movie.production_companies
+who produced cabin in the woods,O O B_movie I_movie I_movie I_movie,movie.produced_by
+what was the production company for black swan,O O O O O O B_movie I_movie,movie.production_companies
+get me the think like a man movie producer,O O O B_movie I_movie I_movie I_movie O O,movie.produced_by
+who produced cars,O O B_movie,movie.produced_by
+who produced cars,O O B_movie,movie.produced_by
+who produced the movie cars,O O O O B_movie,movie.produced_by
+who produced steel magnolias,O O B_movie I_movie,movie.produced_by
+who produces steel magnolias,O O B_movie I_movie,movie.produced_by
+name of producer for ghost busters,O O O O B_movie I_movie,movie.produced_by
+who produced et,O O B_movie,movie.produced_by
+who was the producer for elizabeth,O O O O O B_movie,movie.produced_by
+please show me who produces madagascar,O O O O O B_movie,movie.produced_by
+look for the producer of heroine,O O O O O B_movie,movie.produced_by
+producer of heroine,O O B_movie,movie.produced_by
+can you find the producer of heroine,O O O O O O B_movie,movie.produced_by
+can you tell me who produced the movie avatar,O O O O O O O O B_movie,movie.produced_by
+i need to know who produced the movie avatar,O O O O O O O O B_movie,movie.produced_by
+please tell me who produce the avatar,O O O O O O B_movie,movie.produced_by
+producer of avatar,O O B_movie,movie.produced_by
+who is the producer of avatar,O O O O O B_movie,movie.produced_by
+who produce the avatar,O O O B_movie,movie.produced_by
+who produced avatar,O O B_movie,movie.produced_by
+who produced avatar,O O B_movie,movie.produced_by
+who produced avatar,O O B_movie,movie.produced_by
+who produced avatar,O O B_movie,movie.produced_by
+who produced avatar with james cameron,O O B_movie O B_person I_person,movie.produced_by
+who is listed as producer of grease,O O O O O O B_movie,movie.produced_by
+who is the producer of grease,O O O O O B_movie,movie.produced_by
+browse lionsgate information,O B_producer O,
+display production company lionsgate,O O O B_producer,
+get info on lionsgate,O O O B_producer,
+goto lionsgate,O B_producer,
+i would like more information about lionsgate,O O O O O O B_producer,
+look for information about lionsgate,O O O O B_producer,
+see lionsgate info,O B_producer O,
+show lionsgate,O B_producer,
+company that produced the avengers,O O O B_movie I_movie,movie.production_companies
+show who produced black swan,O O O B_movie I_movie,movie.produced_by
+who produced black swan,O O B_movie I_movie,movie.produced_by
+who produced spaceballs,O O B_movie,movie.produced_by
+find the producer of the godfather,O O O O B_movie I_movie,movie.produced_by
+show me the producer of the godfather,O O O O O B_movie I_movie,movie.produced_by
+who is the producer of the godfather,O O O O O B_movie I_movie,movie.produced_by
+who produced the godfather,O O B_movie I_movie,movie.produced_by
+who produced the godfather,O O B_movie I_movie,movie.produced_by
+who produced the godfather,O O B_movie I_movie,movie.produced_by
+who produced the godfather movies,O O B_movie I_movie O,movie.produced_by
+producer for slumdog millionaire,O O B_movie I_movie,movie.produced_by
+company that produced thor,O O O B_movie,movie.production_companies
+what company produced days of thunder,O O O B_movie I_movie I_movie,movie.production_companies
+i want to look for information about paramount studios,O O O O O O O B_producer O,
+look for information about paramount studios,O O O O B_producer O,
+what is the history behind paramount,O O O O O B_producer,
+look at paramount,O O B_producer,
+who produced hotel rwanda,O O B_movie I_movie,movie.produced_by
+who produced the movie hotel rwanda,O O O O B_movie I_movie,movie.produced_by
+who produced titanic,O O B_movie,movie.produced_by
+company that produced twilight,O O O B_movie,movie.production_companies
+producer for ms. congeniality,O O B_movie I_movie,movie.produced_by
+who produced top gun,O O B_movie I_movie,movie.produced_by
+what production company produced the movie avatar,O O O O O O B_movie,movie.production_companies
+what studio made the dark knight,O O O B_movie I_movie I_movie,movie.production_companies
+what company produced the hangover,O O O B_movie I_movie,movie.production_companies
+who produced the devil wears prada,O O B_movie I_movie I_movie I_movie,movie.produced_by
+i d like to know who the producer of the terminator is,O O O O O O O O O B_movie I_movie O,movie.produced_by
+i wonder who produced the terminator,O O O O B_movie I_movie,movie.produced_by
+who is the producer of the terminator,O O O O O B_movie I_movie,movie.produced_by
+find producer of the great debaters,O O O B_movie I_movie I_movie,movie.produced_by
+who produced the great debaters,O O B_movie I_movie I_movie,movie.produced_by
+who produced the movie twilight,O O O O B_movie,movie.produced_by
+production company for the hulk,O O O O B_movie,movie.production_companies
+can i see who produced possesion,O O O O O B_movie,movie.produced_by
+who produced possesion,O O B_movie,movie.produced_by
+find the producer of moby dick,O O O O B_movie I_movie,movie.produced_by
+producer for the passion of the christ,O O B_movie I_movie I_movie I_movie I_movie,movie.produced_by
+what company is the producer of inception,O O O O O O B_movie,movie.produced_by
+who produced the movie the dark knight,O O O O B_movie I_movie I_movie,movie.produced_by
+who produced lion king,O O B_movie I_movie,movie.produced_by
+i would like to find the producers of the lion king,O O O O O O O O B_movie I_movie I_movie,movie.produced_by
+what company produced sparkle,O O O B_movie,movie.production_companies
+which company produced the terminator,O O O B_movie I_movie,movie.production_companies
+who produced casino royale,O O B_movie I_movie,movie.produced_by
+search mgm studios,O B_producer O,
+who was the producer for the amazing spiderman,O O O O O B_movie I_movie I_movie,movie.produced_by
+in the movie ants who is the producer,O O O B_movie O O O O,movie.produced_by
+the movie ants was produced by what person,O O B_movie O O O O O,movie.produced_by
+the producers for the movie ants,O O O O O B_movie,movie.produced_by
+who is the producer for the movie ants,O O O O O O O B_movie,movie.produced_by
+find the producer of gone with the wind,O O O O B_movie I_movie I_movie I_movie,movie.produced_by
+producer for gone with the wind,O O B_movie I_movie I_movie I_movie,movie.produced_by
+who produced the movie gone with the wind,O O O O B_movie I_movie I_movie I_movie,movie.produced_by
+who produced the movie,O O O O,movie.produced_by
+who produced the movie,O O O O,movie.produced_by
+who produced this movie,O O O O,movie.produced_by
+search for the producer of mirror,O O O O O B_movie,movie.produced_by
+who was mirror s producer,O O B_movie O O,movie.produced_by
+person produced the blind side,O O B_movie I_movie I_movie,movie.produced_by
+who was the producer for coming to america,O O O O O B_movie I_movie I_movie,movie.produced_by
+search for the producer of step up,O O O O O B_movie I_movie,movie.produced_by
+goto warner brothers,O B_producer I_producer,
+pixar film studio,B_producer O O,
+look up the producer of freedom writers,O O O O O B_movie I_movie,movie.produced_by
+who produced godfather,O O B_movie,movie.produced_by
+who produced the godfather,O O O B_movie,movie.produced_by
+show producers who work for miramax,O O O O O B_producer,movie.production_companies movie.produced_by
+what type of audience can watch cars,O O O O O O B_movie,movie.rating
+is toy story for kids,O B_movie I_movie O O,movie.rating
+rating of movie,O O O,movie.rating
+what is movie rated,O O O O,movie.rating
+show me the rating for the movie,O O O O O O O,movie.rating
+what is the mpaa rating for movie,O O O O O O O,movie.rating
+what is the reccommended audience for movie,O O O O O O O,movie.rating
+can i see this film rating,O O O O O O,movie.rating
+what is the parental rating on this movie,O O O O O O O O,movie.rating
+what is the rating of movie,O O O O O O,movie.rating
+movie rating,O O,movie.rating
+what rating did the dark knight rises receive,O O O B_movie I_movie I_movie I_movie O,movie.rating
+what is the rating for dark knight,O O O O O B_movie I_movie,movie.rating
+rating for dark knight,O O B_movie I_movie,movie.rating
+can you tell me whats the rating of movie avatar,O O O O O O O O O B_movie,movie.rating
+i need to know the rating of the movie avatar,O O O O O O O O O B_movie,movie.rating
+show me the rating of the movie avatar,O O O O O O O B_movie,movie.rating
+what is the rating for the movie ants,O O O O O O O B_movie,movie.rating
+is hotel transylavania good for adults,O B_movie I_movie O O O,movie.rating
+show me the rating for the movie the lord of rings,O O O O O O O B_movie I_movie I_movie I_movie,movie.rating
+what age is marley and me appropriate,O O O B_movie I_movie I_movie O,movie.rating
+how old should a person be to watch marley and me,O O O O O O O O B_movie I_movie I_movie,movie.rating
+what age is appropriate to watch marley and me,O O O O O O B_movie I_movie I_movie,movie.rating
+what rating is superman,O O O B_movie,movie.rating
+rating for transylvania,O O B_movie,movie.rating
+tell me the rating of the movie grease,O O O O O O O B_movie,movie.rating
+what is grease rated,O O B_movie O,movie.rating
+tell me the rating of the film grease,O O O O O O O B_movie,movie.rating
+what is the appropriate age for clueless,O O O O O O B_movie,movie.rating
+what is the rating of dirty dancing,O O O O O B_movie I_movie,movie.rating
+what is the rating for dirty dancing,O O O O O B_movie I_movie,movie.rating
+what rating is freedom writers,O O O B_movie I_movie,movie.rating
+what is the rating for house at the end of the street,O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie,movie.rating
+what ratings does the house at the end of the street hold,O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie O,movie.rating
+is it appropriate to take my 16 year old to see land of the lost,O O O O O O O O O O O B_movie I_movie I_movie I_movie,movie.rating
+is the movie life is beautiful ok for my six year old to watch,O O O B_movie I_movie I_movie O O O O O O O O,movie.rating
+find the rating of the movie step up,O O O O O O B_movie I_movie,movie.rating
+rating for the green hornet,O O B_movie I_movie I_movie,movie.rating
+show me the film rating for avengers,O O O O O O B_movie,movie.rating
+show rating for the film avengers,O O O O O B_movie,movie.rating
+show rating of movie avengers,O O O O B_movie,movie.rating
+what is the rating for the avenger movie,O O O O O B_movie I_movie O,movie.rating
+rating for the avengers,O O B_movie I_movie,movie.rating
+what is jurassic park rated,O O B_movie I_movie O,movie.rating
+list movie ratings for us movie looper,O O O O B_country O B_movie,movie.country movie.rating
+show movie ratings for us movie looper,O O O O B_country O B_movie,movie.country movie.rating
+what audience will watch black swan,O O O O B_movie I_movie,movie.rating
+can i take my 13 year old to see american pie,O O O O O O O O O B_movie I_movie,movie.rating
+how old for black swan,O O O B_movie I_movie,movie.rating
+what age is black swan appropriate for,O O O B_movie I_movie O O,movie.rating
+can you tell me the rating for cabin in the woods,O O O O O O O B_movie I_movie I_movie I_movie,movie.rating
+i would like to know the rating for cabin in the woods,O O O O O O O O B_movie I_movie I_movie I_movie,movie.rating
+kindly show me the rating for cabin in the woods,O O O O O O B_movie I_movie I_movie I_movie,movie.rating
+show me the rating for cabin in the woods,O O O O O B_movie I_movie I_movie I_movie,movie.rating
+rating for resident evil,O O B_movie I_movie,movie.rating
+show me the rating for the movie romeo must die,O O O O O O O B_movie I_movie I_movie,movie.rating
+what restrictions does the campaign film have for viewers,O O O B_movie I_movie O O O O,movie.rating
+what is the rating for the movie the campaign,O O O O O O O B_movie I_movie,movie.rating
+show me the rating for the movie the expendables 2,O O O O O O O B_movie I_movie I_movie,movie.rating
+show me the rating for the movie the mechanic,O O O O O O O B_movie I_movie,movie.rating
+can you find out what the movie dredd is rated,O O O O O O O B_movie O O,movie.rating
+look up the rating for the movie dredd,O O O O O O O B_movie,movie.rating
+search for the rating of the movie dredd,O O O O O O O B_movie,movie.rating
+what is the movie rating for die hard,O O O O O O B_movie I_movie,movie.rating
+twilight revenue,B_movie O,movie.gross_revenue
+what was the gross profit for twilight,O O O O O O B_movie,movie.gross_revenue
+how much did et gross worldwide,O O O B_movie O O,movie.gross_revenue
+what did et gross,O O B_movie O,movie.gross_revenue
+can you tell me about the revenue generated by the movie avatar,O O O O O O O O O O O B_movie,movie.gross_revenue
+how much money did avatar make,O O O O B_movie O,movie.gross_revenue
+how much revenue did the movie avatar generate,O O O O O O B_movie O,movie.gross_revenue
+tell me about the revenue generated by the movie avatar,O O O O O O O O O B_movie,movie.gross_revenue
+how much money did pretty woman take in,O O O O B_movie I_movie O O,movie.gross_revenue
+revenue for pretty woman,O O B_movie I_movie,movie.gross_revenue
+gross earnings for avengers movie,O O O B_movie O,movie.gross_revenue
+ticket sales for the movie avengers,O O O O O B_movie,movie.gross_revenue
+what was the gross earnings for the avengers movie,O O O O O O B_movie I_movie O,movie.gross_revenue
+how much revenue did the avengers take it,O O O O B_movie I_movie O O,movie.gross_revenue
+what were the gross receipts for the avengers,O O O O O O B_movie I_movie,movie.gross_revenue
+can you give me the revenue of the movie titanic,O O O O O O O O O B_movie,movie.gross_revenue
+how much revenue did titanic make,O O O O B_movie O,movie.gross_revenue
+profits made by titanic,O O O B_movie,movie.gross_revenue
+revenue for titanic,O O B_movie,movie.gross_revenue
+revenue for titanic,O O B_movie,movie.gross_revenue
+total titanic revenues,O B_movie O,movie.gross_revenue
+what was the revenue for toy story 3,O O O O O B_movie I_movie I_movie,movie.gross_revenue
+dark knight revenue,B_movie I_movie O,movie.gross_revenue
+how much did the dark night generate,O O O B_movie I_movie I_movie O,movie.gross_revenue
