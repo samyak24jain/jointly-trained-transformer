@@ -13,7 +13,6 @@ The dataset is generated based on film schema of Freebase knowledge graph. There
 ## Model Architecture:
 ![Transformer architecture for multi-task joint training](https://github.com/samyak24jain/jointly-trained-transformer/assets/10193535/5cdc49d5-0bed-44d4-833b-02036f6889dc)
 
-
 ## How to run:
 
 ### Requirements
