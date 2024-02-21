@@ -1,6 +1,6 @@
 # Joint Multi-Task Training with Transformers
 
-This repository provides the code, data and scripts for jointly training a [vanilla transformer](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) model from scratch. We train the model to learn two tasks simultaneously.
+This repository provides the code, data and scripts for jointly training a [vanilla transformer](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) model from scratch in PyTorch. We train the model to learn two tasks simultaneously.
 
 ## Tasks:
 - BIO Slot Tagging (multi-class token classification)
